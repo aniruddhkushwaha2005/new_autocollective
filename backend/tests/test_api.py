@@ -10,7 +10,6 @@ def test_health_endpoint():
     assert res.status_code == 200
     assert res.json()["status"] == "ok"
 
-
 def test_offer_analysis_scoring():
     sample_offers = [
         {

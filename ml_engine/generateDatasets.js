@@ -134,6 +134,7 @@ export function ensureDatasets() {
     for (const c of demandCities) {
       for (let k = 0; k < demandModels.length; k++) {
         const car = demandModels[k];
+        // Calculate the popularity of each model based on its features and the city's demand
         const modelPopularity = 1.35 - k * 0.06 + (car.fuel === 'Electric' ? 0.15 : 0);
         const trendGrowth = 1 + m.idx * 0.018;
         const baseReqs = 18 * c.demandMultiplier * modelPopularity * seasonalBump * trendGrowth;

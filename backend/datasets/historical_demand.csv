@@ -1,0 +1,1081 @@
+month,month_index,city,brand,model,buyer_requests,groups_formed,avg_discount_pct,units_sold
+2025-05,1,Bengaluru,Hyundai,Creta,30,6,4.94,21
+2025-05,1,Bengaluru,Tata,Nexon,30,7,5.13,21
+2025-05,1,Bengaluru,Maruti Suzuki,Grand Vitara,28,6,4.81,17
+2025-05,1,Bengaluru,Mahindra,XUV700,25,5,4.56,15
+2025-05,1,Bengaluru,Kia,Seltos,25,6,5.28,17
+2025-05,1,Bengaluru,Honda,City,26,6,4.88,15
+2025-05,1,Bengaluru,Tata,Nexon EV,23,5,4.7,14
+2025-05,1,Bengaluru,Toyota,Innova Hycross,22,5,4.63,13
+2025-05,1,Bengaluru,Maruti Suzuki,Brezza,19,5,4.51,13
+2025-05,1,Bengaluru,Mahindra,Scorpio-N,21,5,5.04,15
+2025-05,1,Mumbai,Hyundai,Creta,33,8,5.86,24
+2025-05,1,Mumbai,Tata,Nexon,29,7,5.34,21
+2025-05,1,Mumbai,Maruti Suzuki,Grand Vitara,27,6,5.37,18
+2025-05,1,Mumbai,Mahindra,XUV700,29,6,5.22,17
+2025-05,1,Mumbai,Kia,Seltos,26,6,5.05,18
+2025-05,1,Mumbai,Honda,City,24,6,5.14,16
+2025-05,1,Mumbai,Tata,Nexon EV,22,5,4.78,13
+2025-05,1,Mumbai,Toyota,Innova Hycross,21,5,4.97,13
+2025-05,1,Mumbai,Maruti Suzuki,Brezza,23,5,4.93,15
+2025-05,1,Mumbai,Mahindra,Scorpio-N,22,4,4.59,13
+2025-05,1,Delhi NCR,Hyundai,Creta,33,7,5.64,21
+2025-05,1,Delhi NCR,Tata,Nexon,36,8,5.49,25
+2025-05,1,Delhi NCR,Maruti Suzuki,Grand Vitara,31,6,5.23,19
+2025-05,1,Delhi NCR,Mahindra,XUV700,33,7,5.12,23
+2025-05,1,Delhi NCR,Kia,Seltos,28,7,5.26,19
+2025-05,1,Delhi NCR,Honda,City,28,7,5.63,17
+2025-05,1,Delhi NCR,Tata,Nexon EV,24,5,4.96,14
+2025-05,1,Delhi NCR,Toyota,Innova Hycross,26,5,4.55,16
+2025-05,1,Delhi NCR,Maruti Suzuki,Brezza,20,5,5.02,13
+2025-05,1,Delhi NCR,Mahindra,Scorpio-N,22,6,5.15,14
+2025-05,1,Pune,Hyundai,Creta,23,5,4.95,15
+2025-05,1,Pune,Tata,Nexon,24,5,4.61,17
+2025-05,1,Pune,Maruti Suzuki,Grand Vitara,23,5,4.58,14
+2025-05,1,Pune,Mahindra,XUV700,21,5,4.51,14
+2025-05,1,Pune,Kia,Seltos,21,4,4.27,14
+2025-05,1,Pune,Honda,City,19,5,4.8,14
+2025-05,1,Pune,Tata,Nexon EV,20,4,4.36,12
+2025-05,1,Pune,Toyota,Innova Hycross,18,4,4.32,11
+2025-05,1,Pune,Maruti Suzuki,Brezza,20,5,4.64,13
+2025-05,1,Pune,Mahindra,Scorpio-N,13,3,4.36,8
+2025-05,1,Hyderabad,Hyundai,Creta,25,6,5.07,15
+2025-05,1,Hyderabad,Tata,Nexon,26,6,5.08,16
+2025-05,1,Hyderabad,Maruti Suzuki,Grand Vitara,27,6,4.83,19
+2025-05,1,Hyderabad,Mahindra,XUV700,23,6,5.18,14
+2025-05,1,Hyderabad,Kia,Seltos,20,5,4.91,13
+2025-05,1,Hyderabad,Honda,City,20,4,4.34,14
+2025-05,1,Hyderabad,Tata,Nexon EV,20,4,4.57,13
+2025-05,1,Hyderabad,Toyota,Innova Hycross,19,5,4.77,13
+2025-05,1,Hyderabad,Maruti Suzuki,Brezza,16,4,4.49,10
+2025-05,1,Hyderabad,Mahindra,Scorpio-N,14,4,4.7,9
+2025-05,1,Chennai,Hyundai,Creta,26,6,4.93,17
+2025-05,1,Chennai,Tata,Nexon,24,6,5.17,15
+2025-05,1,Chennai,Maruti Suzuki,Grand Vitara,21,5,4.53,15
+2025-05,1,Chennai,Mahindra,XUV700,19,4,4.77,13
+2025-05,1,Chennai,Kia,Seltos,22,6,5.04,15
+2025-05,1,Chennai,Honda,City,20,4,4.34,12
+2025-05,1,Chennai,Tata,Nexon EV,20,4,4.8,12
+2025-05,1,Chennai,Toyota,Innova Hycross,15,4,4.82,10
+2025-05,1,Chennai,Maruti Suzuki,Brezza,18,4,4.69,11
+2025-05,1,Chennai,Mahindra,Scorpio-N,16,4,4.81,11
+2025-06,2,Bengaluru,Hyundai,Creta,28,7,5.56,19
+2025-06,2,Bengaluru,Tata,Nexon,27,7,5.18,16
+2025-06,2,Bengaluru,Maruti Suzuki,Grand Vitara,23,6,5.1,15
+2025-06,2,Bengaluru,Mahindra,XUV700,22,4,4.6,13
+2025-06,2,Bengaluru,Kia,Seltos,21,5,4.55,14
+2025-06,2,Bengaluru,Honda,City,23,5,4.95,14
+2025-06,2,Bengaluru,Tata,Nexon EV,18,4,4.72,11
+2025-06,2,Bengaluru,Toyota,Innova Hycross,17,4,4.78,12
+2025-06,2,Bengaluru,Maruti Suzuki,Brezza,18,4,4.46,12
+2025-06,2,Bengaluru,Mahindra,Scorpio-N,19,4,4.36,12
+2025-06,2,Mumbai,Hyundai,Creta,28,7,5.63,20
+2025-06,2,Mumbai,Tata,Nexon,26,6,5.25,18
+2025-06,2,Mumbai,Maruti Suzuki,Grand Vitara,28,6,5.13,17
+2025-06,2,Mumbai,Mahindra,XUV700,27,7,5.43,19
+2025-06,2,Mumbai,Kia,Seltos,22,5,5.09,14
+2025-06,2,Mumbai,Honda,City,20,5,4.85,14
+2025-06,2,Mumbai,Tata,Nexon EV,20,5,4.86,12
+2025-06,2,Mumbai,Toyota,Innova Hycross,19,4,4.28,13
+2025-06,2,Mumbai,Maruti Suzuki,Brezza,16,4,4.69,9
+2025-06,2,Mumbai,Mahindra,Scorpio-N,20,5,4.72,12
+2025-06,2,Delhi NCR,Hyundai,Creta,32,7,5.38,22
+2025-06,2,Delhi NCR,Tata,Nexon,33,7,5.41,20
+2025-06,2,Delhi NCR,Maruti Suzuki,Grand Vitara,28,6,4.82,17
+2025-06,2,Delhi NCR,Mahindra,XUV700,28,6,5.2,18
+2025-06,2,Delhi NCR,Kia,Seltos,24,5,4.9,14
+2025-06,2,Delhi NCR,Honda,City,24,6,4.95,16
+2025-06,2,Delhi NCR,Tata,Nexon EV,21,5,5.04,14
+2025-06,2,Delhi NCR,Toyota,Innova Hycross,20,4,4.8,14
+2025-06,2,Delhi NCR,Maruti Suzuki,Brezza,19,5,4.53,12
+2025-06,2,Delhi NCR,Mahindra,Scorpio-N,20,4,4.52,14
+2025-06,2,Pune,Hyundai,Creta,22,5,4.63,13
+2025-06,2,Pune,Tata,Nexon,23,5,4.67,15
+2025-06,2,Pune,Maruti Suzuki,Grand Vitara,21,4,4.41,13
+2025-06,2,Pune,Mahindra,XUV700,19,5,5.03,12
+2025-06,2,Pune,Kia,Seltos,17,4,4.32,11
+2025-06,2,Pune,Honda,City,19,4,4.26,13
+2025-06,2,Pune,Tata,Nexon EV,19,4,4.61,12
+2025-06,2,Pune,Toyota,Innova Hycross,19,4,4.41,13
+2025-06,2,Pune,Maruti Suzuki,Brezza,17,4,4.62,12
+2025-06,2,Pune,Mahindra,Scorpio-N,15,3,4.1,9
+2025-06,2,Hyderabad,Hyundai,Creta,23,5,5.03,13
+2025-06,2,Hyderabad,Tata,Nexon,25,6,5.33,17
+2025-06,2,Hyderabad,Maruti Suzuki,Grand Vitara,25,6,5.08,16
+2025-06,2,Hyderabad,Mahindra,XUV700,22,5,4.82,15
+2025-06,2,Hyderabad,Kia,Seltos,18,4,4.72,11
+2025-06,2,Hyderabad,Honda,City,19,4,4.74,11
+2025-06,2,Hyderabad,Tata,Nexon EV,20,5,5.01,12
+2025-06,2,Hyderabad,Toyota,Innova Hycross,15,3,4.22,11
+2025-06,2,Hyderabad,Maruti Suzuki,Brezza,19,4,4.71,11
+2025-06,2,Hyderabad,Mahindra,Scorpio-N,18,4,4.76,11
+2025-06,2,Chennai,Hyundai,Creta,20,5,4.58,13
+2025-06,2,Chennai,Tata,Nexon,20,5,4.9,12
+2025-06,2,Chennai,Maruti Suzuki,Grand Vitara,17,4,4.42,10
+2025-06,2,Chennai,Mahindra,XUV700,18,4,4.31,12
+2025-06,2,Chennai,Kia,Seltos,17,4,4.57,11
+2025-06,2,Chennai,Honda,City,15,4,4.56,9
+2025-06,2,Chennai,Tata,Nexon EV,14,3,4.42,8
+2025-06,2,Chennai,Toyota,Innova Hycross,18,4,4.44,12
+2025-06,2,Chennai,Maruti Suzuki,Brezza,12,3,4.35,9
+2025-06,2,Chennai,Mahindra,Scorpio-N,12,2,3.8,8
+2025-07,3,Bengaluru,Hyundai,Creta,29,7,5.42,18
+2025-07,3,Bengaluru,Tata,Nexon,30,7,5.46,20
+2025-07,3,Bengaluru,Maruti Suzuki,Grand Vitara,29,7,5.48,19
+2025-07,3,Bengaluru,Mahindra,XUV700,28,6,5.31,20
+2025-07,3,Bengaluru,Kia,Seltos,25,6,4.8,17
+2025-07,3,Bengaluru,Honda,City,23,6,4.95,13
+2025-07,3,Bengaluru,Tata,Nexon EV,19,5,5.06,13
+2025-07,3,Bengaluru,Toyota,Innova Hycross,18,4,4.6,12
+2025-07,3,Bengaluru,Maruti Suzuki,Brezza,18,5,4.91,11
+2025-07,3,Bengaluru,Mahindra,Scorpio-N,16,4,4.79,10
+2025-07,3,Mumbai,Hyundai,Creta,30,7,5.59,19
+2025-07,3,Mumbai,Tata,Nexon,29,6,4.9,19
+2025-07,3,Mumbai,Maruti Suzuki,Grand Vitara,26,6,5.32,17
+2025-07,3,Mumbai,Mahindra,XUV700,28,6,5.06,17
+2025-07,3,Mumbai,Kia,Seltos,24,6,5.2,17
+2025-07,3,Mumbai,Honda,City,24,6,5.04,14
+2025-07,3,Mumbai,Tata,Nexon EV,19,5,4.6,12
+2025-07,3,Mumbai,Toyota,Innova Hycross,21,4,4.5,13
+2025-07,3,Mumbai,Maruti Suzuki,Brezza,16,3,4.23,10
+2025-07,3,Mumbai,Mahindra,Scorpio-N,19,4,4.82,13
+2025-07,3,Delhi NCR,Hyundai,Creta,33,7,5.34,22
+2025-07,3,Delhi NCR,Tata,Nexon,30,6,5.03,21
+2025-07,3,Delhi NCR,Maruti Suzuki,Grand Vitara,30,7,5.41,19
+2025-07,3,Delhi NCR,Mahindra,XUV700,27,7,5.18,19
+2025-07,3,Delhi NCR,Kia,Seltos,29,7,5.61,20
+2025-07,3,Delhi NCR,Honda,City,24,6,5.15,17
+2025-07,3,Delhi NCR,Tata,Nexon EV,25,5,4.96,17
+2025-07,3,Delhi NCR,Toyota,Innova Hycross,23,5,4.91,17
+2025-07,3,Delhi NCR,Maruti Suzuki,Brezza,24,5,4.68,15
+2025-07,3,Delhi NCR,Mahindra,Scorpio-N,19,4,4.75,11
+2025-07,3,Pune,Hyundai,Creta,27,6,4.89,19
+2025-07,3,Pune,Tata,Nexon,21,5,4.56,13
+2025-07,3,Pune,Maruti Suzuki,Grand Vitara,20,5,4.67,12
+2025-07,3,Pune,Mahindra,XUV700,20,4,4.44,14
+2025-07,3,Pune,Kia,Seltos,22,4,4.61,14
+2025-07,3,Pune,Honda,City,21,5,4.62,12
+2025-07,3,Pune,Tata,Nexon EV,15,3,4.33,11
+2025-07,3,Pune,Toyota,Innova Hycross,17,4,4.3,12
+2025-07,3,Pune,Maruti Suzuki,Brezza,17,4,4.45,10
+2025-07,3,Pune,Mahindra,Scorpio-N,12,3,4.47,8
+2025-07,3,Hyderabad,Hyundai,Creta,25,5,5.03,17
+2025-07,3,Hyderabad,Tata,Nexon,23,6,5.32,14
+2025-07,3,Hyderabad,Maruti Suzuki,Grand Vitara,26,6,4.88,18
+2025-07,3,Hyderabad,Mahindra,XUV700,23,6,4.85,15
+2025-07,3,Hyderabad,Kia,Seltos,19,4,4.52,11
+2025-07,3,Hyderabad,Honda,City,22,6,5.24,15
+2025-07,3,Hyderabad,Tata,Nexon EV,20,5,4.89,12
+2025-07,3,Hyderabad,Toyota,Innova Hycross,20,5,4.62,13
+2025-07,3,Hyderabad,Maruti Suzuki,Brezza,16,3,4.09,10
+2025-07,3,Hyderabad,Mahindra,Scorpio-N,17,4,4.24,12
+2025-07,3,Chennai,Hyundai,Creta,24,6,4.89,15
+2025-07,3,Chennai,Tata,Nexon,22,5,4.79,16
+2025-07,3,Chennai,Maruti Suzuki,Grand Vitara,21,5,4.71,12
+2025-07,3,Chennai,Mahindra,XUV700,17,4,4.74,10
+2025-07,3,Chennai,Kia,Seltos,21,5,4.7,15
+2025-07,3,Chennai,Honda,City,19,5,4.95,13
+2025-07,3,Chennai,Tata,Nexon EV,14,3,4.53,9
+2025-07,3,Chennai,Toyota,Innova Hycross,12,2,3.68,8
+2025-07,3,Chennai,Maruti Suzuki,Brezza,15,4,4.24,9
+2025-07,3,Chennai,Mahindra,Scorpio-N,14,4,4.64,9
+2025-08,4,Bengaluru,Hyundai,Creta,34,8,5.72,23
+2025-08,4,Bengaluru,Tata,Nexon,34,8,5.59,24
+2025-08,4,Bengaluru,Maruti Suzuki,Grand Vitara,29,7,5.41,18
+2025-08,4,Bengaluru,Mahindra,XUV700,27,6,4.83,18
+2025-08,4,Bengaluru,Kia,Seltos,26,5,4.86,19
+2025-08,4,Bengaluru,Honda,City,23,5,4.68,14
+2025-08,4,Bengaluru,Tata,Nexon EV,21,5,4.55,15
+2025-08,4,Bengaluru,Toyota,Innova Hycross,24,6,5.12,17
+2025-08,4,Bengaluru,Maruti Suzuki,Brezza,19,4,4.29,12
+2025-08,4,Bengaluru,Mahindra,Scorpio-N,18,5,4.79,12
+2025-08,4,Mumbai,Hyundai,Creta,35,7,5.61,24
+2025-08,4,Mumbai,Tata,Nexon,30,7,5.45,19
+2025-08,4,Mumbai,Maruti Suzuki,Grand Vitara,30,6,5.03,18
+2025-08,4,Mumbai,Mahindra,XUV700,28,7,5.26,18
+2025-08,4,Mumbai,Kia,Seltos,28,6,5.12,17
+2025-08,4,Mumbai,Honda,City,28,6,5.34,17
+2025-08,4,Mumbai,Tata,Nexon EV,27,6,4.99,18
+2025-08,4,Mumbai,Toyota,Innova Hycross,25,6,5.06,15
+2025-08,4,Mumbai,Maruti Suzuki,Brezza,19,5,4.56,12
+2025-08,4,Mumbai,Mahindra,Scorpio-N,23,5,4.91,17
+2025-08,4,Delhi NCR,Hyundai,Creta,38,9,5.95,25
+2025-08,4,Delhi NCR,Tata,Nexon,37,8,5.76,23
+2025-08,4,Delhi NCR,Maruti Suzuki,Grand Vitara,36,8,5.75,24
+2025-08,4,Delhi NCR,Mahindra,XUV700,35,8,5.69,25
+2025-08,4,Delhi NCR,Kia,Seltos,31,7,5.44,18
+2025-08,4,Delhi NCR,Honda,City,31,7,5.5,21
+2025-08,4,Delhi NCR,Tata,Nexon EV,29,7,5.45,19
+2025-08,4,Delhi NCR,Toyota,Innova Hycross,25,5,4.62,16
+2025-08,4,Delhi NCR,Maruti Suzuki,Brezza,24,5,5.03,17
+2025-08,4,Delhi NCR,Mahindra,Scorpio-N,24,6,5.05,15
+2025-08,4,Pune,Hyundai,Creta,27,6,5.18,16
+2025-08,4,Pune,Tata,Nexon,26,6,5.09,19
+2025-08,4,Pune,Maruti Suzuki,Grand Vitara,27,6,5.33,19
+2025-08,4,Pune,Mahindra,XUV700,22,5,4.55,14
+2025-08,4,Pune,Kia,Seltos,23,5,5.08,15
+2025-08,4,Pune,Honda,City,24,6,4.91,16
+2025-08,4,Pune,Tata,Nexon EV,21,5,5.04,14
+2025-08,4,Pune,Toyota,Innova Hycross,19,4,4.53,12
+2025-08,4,Pune,Maruti Suzuki,Brezza,17,4,4.62,11
+2025-08,4,Pune,Mahindra,Scorpio-N,18,4,4.68,13
+2025-08,4,Hyderabad,Hyundai,Creta,27,6,4.97,16
+2025-08,4,Hyderabad,Tata,Nexon,27,6,5.3,19
+2025-08,4,Hyderabad,Maruti Suzuki,Grand Vitara,26,6,5.03,18
+2025-08,4,Hyderabad,Mahindra,XUV700,25,5,4.69,16
+2025-08,4,Hyderabad,Kia,Seltos,24,5,4.86,15
+2025-08,4,Hyderabad,Honda,City,21,4,4.55,14
+2025-08,4,Hyderabad,Tata,Nexon EV,22,5,4.8,14
+2025-08,4,Hyderabad,Toyota,Innova Hycross,19,4,4.74,13
+2025-08,4,Hyderabad,Maruti Suzuki,Brezza,17,4,4.42,10
+2025-08,4,Hyderabad,Mahindra,Scorpio-N,19,4,4.37,13
+2025-08,4,Chennai,Hyundai,Creta,23,5,4.69,16
+2025-08,4,Chennai,Tata,Nexon,21,5,5.09,14
+2025-08,4,Chennai,Maruti Suzuki,Grand Vitara,22,5,4.83,14
+2025-08,4,Chennai,Mahindra,XUV700,21,5,4.82,13
+2025-08,4,Chennai,Kia,Seltos,22,5,4.56,14
+2025-08,4,Chennai,Honda,City,20,5,4.51,14
+2025-08,4,Chennai,Tata,Nexon EV,19,4,4.57,11
+2025-08,4,Chennai,Toyota,Innova Hycross,17,3,4.46,11
+2025-08,4,Chennai,Maruti Suzuki,Brezza,15,3,4.28,10
+2025-08,4,Chennai,Mahindra,Scorpio-N,12,3,4.24,7
+2025-09,5,Bengaluru,Hyundai,Creta,36,8,5.75,25
+2025-09,5,Bengaluru,Tata,Nexon,32,7,5.11,22
+2025-09,5,Bengaluru,Maruti Suzuki,Grand Vitara,30,7,5.38,20
+2025-09,5,Bengaluru,Mahindra,XUV700,30,7,5.16,20
+2025-09,5,Bengaluru,Kia,Seltos,26,6,5.22,16
+2025-09,5,Bengaluru,Honda,City,23,6,4.79,15
+2025-09,5,Bengaluru,Tata,Nexon EV,26,6,5.15,16
+2025-09,5,Bengaluru,Toyota,Innova Hycross,21,5,4.77,13
+2025-09,5,Bengaluru,Maruti Suzuki,Brezza,22,5,4.72,15
+2025-09,5,Bengaluru,Mahindra,Scorpio-N,19,5,4.98,13
+2025-09,5,Mumbai,Hyundai,Creta,35,8,5.57,20
+2025-09,5,Mumbai,Tata,Nexon,32,7,5.43,21
+2025-09,5,Mumbai,Maruti Suzuki,Grand Vitara,29,7,5.58,19
+2025-09,5,Mumbai,Mahindra,XUV700,27,6,5,17
+2025-09,5,Mumbai,Kia,Seltos,30,7,5.33,20
+2025-09,5,Mumbai,Honda,City,28,6,5.34,19
+2025-09,5,Mumbai,Tata,Nexon EV,23,5,4.6,15
+2025-09,5,Mumbai,Toyota,Innova Hycross,26,6,5.31,16
+2025-09,5,Mumbai,Maruti Suzuki,Brezza,22,5,5.08,14
+2025-09,5,Mumbai,Mahindra,Scorpio-N,22,5,5.08,13
+2025-09,5,Delhi NCR,Hyundai,Creta,41,9,5.88,26
+2025-09,5,Delhi NCR,Tata,Nexon,39,9,5.81,27
+2025-09,5,Delhi NCR,Maruti Suzuki,Grand Vitara,37,8,5.52,24
+2025-09,5,Delhi NCR,Mahindra,XUV700,35,8,5.77,24
+2025-09,5,Delhi NCR,Kia,Seltos,30,7,5.49,20
+2025-09,5,Delhi NCR,Honda,City,31,7,5.09,19
+2025-09,5,Delhi NCR,Tata,Nexon EV,29,6,4.97,18
+2025-09,5,Delhi NCR,Toyota,Innova Hycross,24,6,5.01,17
+2025-09,5,Delhi NCR,Maruti Suzuki,Brezza,27,6,5.1,17
+2025-09,5,Delhi NCR,Mahindra,Scorpio-N,23,6,5.22,16
+2025-09,5,Pune,Hyundai,Creta,29,7,5.22,18
+2025-09,5,Pune,Tata,Nexon,26,6,4.91,16
+2025-09,5,Pune,Maruti Suzuki,Grand Vitara,26,6,5.03,15
+2025-09,5,Pune,Mahindra,XUV700,23,5,4.97,16
+2025-09,5,Pune,Kia,Seltos,20,5,4.9,12
+2025-09,5,Pune,Honda,City,23,6,4.79,15
+2025-09,5,Pune,Tata,Nexon EV,21,5,5.09,14
+2025-09,5,Pune,Toyota,Innova Hycross,18,4,4.24,11
+2025-09,5,Pune,Maruti Suzuki,Brezza,18,4,4.69,11
+2025-09,5,Pune,Mahindra,Scorpio-N,15,4,4.69,9
+2025-09,5,Hyderabad,Hyundai,Creta,28,6,4.98,20
+2025-09,5,Hyderabad,Tata,Nexon,26,6,4.83,16
+2025-09,5,Hyderabad,Maruti Suzuki,Grand Vitara,29,6,5.12,19
+2025-09,5,Hyderabad,Mahindra,XUV700,23,6,4.85,15
+2025-09,5,Hyderabad,Kia,Seltos,22,5,4.99,16
+2025-09,5,Hyderabad,Honda,City,20,5,4.7,12
+2025-09,5,Hyderabad,Tata,Nexon EV,23,6,4.86,15
+2025-09,5,Hyderabad,Toyota,Innova Hycross,20,4,4.78,13
+2025-09,5,Hyderabad,Maruti Suzuki,Brezza,16,4,4.46,9
+2025-09,5,Hyderabad,Mahindra,Scorpio-N,16,4,4.23,10
+2025-09,5,Chennai,Hyundai,Creta,25,6,5.05,15
+2025-09,5,Chennai,Tata,Nexon,23,5,4.7,17
+2025-09,5,Chennai,Maruti Suzuki,Grand Vitara,22,5,4.56,14
+2025-09,5,Chennai,Mahindra,XUV700,23,5,4.6,15
+2025-09,5,Chennai,Kia,Seltos,22,6,5.24,14
+2025-09,5,Chennai,Honda,City,22,6,4.89,15
+2025-09,5,Chennai,Tata,Nexon EV,21,5,4.57,14
+2025-09,5,Chennai,Toyota,Innova Hycross,17,4,4.24,11
+2025-09,5,Chennai,Maruti Suzuki,Brezza,16,4,4.73,11
+2025-09,5,Chennai,Mahindra,Scorpio-N,13,4,4.24,8
+2025-10,6,Bengaluru,Hyundai,Creta,46,11,6.7,32
+2025-10,6,Bengaluru,Tata,Nexon,40,9,5.95,27
+2025-10,6,Bengaluru,Maruti Suzuki,Grand Vitara,43,10,6.48,28
+2025-10,6,Bengaluru,Mahindra,XUV700,40,9,6.02,26
+2025-10,6,Bengaluru,Kia,Seltos,34,7,5.35,24
+2025-10,6,Bengaluru,Honda,City,32,7,5.28,19
+2025-10,6,Bengaluru,Tata,Nexon EV,30,6,4.98,17
+2025-10,6,Bengaluru,Toyota,Innova Hycross,32,7,5.49,22
+2025-10,6,Bengaluru,Maruti Suzuki,Brezza,27,6,4.81,18
+2025-10,6,Bengaluru,Mahindra,Scorpio-N,29,7,5.1,17
+2025-10,6,Mumbai,Hyundai,Creta,46,10,6.05,28
+2025-10,6,Mumbai,Tata,Nexon,44,10,6.16,29
+2025-10,6,Mumbai,Maruti Suzuki,Grand Vitara,43,10,6.04,28
+2025-10,6,Mumbai,Mahindra,XUV700,38,8,5.85,26
+2025-10,6,Mumbai,Kia,Seltos,38,9,6.06,26
+2025-10,6,Mumbai,Honda,City,36,8,5.35,22
+2025-10,6,Mumbai,Tata,Nexon EV,32,8,5.62,22
+2025-10,6,Mumbai,Toyota,Innova Hycross,29,6,5.17,20
+2025-10,6,Mumbai,Maruti Suzuki,Brezza,29,7,5.17,17
+2025-10,6,Mumbai,Mahindra,Scorpio-N,27,6,5,18
+2025-10,6,Delhi NCR,Hyundai,Creta,53,12,6.69,34
+2025-10,6,Delhi NCR,Tata,Nexon,52,11,6.28,33
+2025-10,6,Delhi NCR,Maruti Suzuki,Grand Vitara,50,11,6.47,36
+2025-10,6,Delhi NCR,Mahindra,XUV700,43,10,6.02,27
+2025-10,6,Delhi NCR,Kia,Seltos,42,9,5.62,25
+2025-10,6,Delhi NCR,Honda,City,40,9,5.78,24
+2025-10,6,Delhi NCR,Tata,Nexon EV,36,8,5.84,23
+2025-10,6,Delhi NCR,Toyota,Innova Hycross,37,8,5.36,23
+2025-10,6,Delhi NCR,Maruti Suzuki,Brezza,32,8,5.43,21
+2025-10,6,Delhi NCR,Mahindra,Scorpio-N,30,7,5.65,21
+2025-10,6,Pune,Hyundai,Creta,38,8,5.41,26
+2025-10,6,Pune,Tata,Nexon,35,8,5.38,20
+2025-10,6,Pune,Maruti Suzuki,Grand Vitara,33,7,5.18,21
+2025-10,6,Pune,Mahindra,XUV700,32,7,5.44,20
+2025-10,6,Pune,Kia,Seltos,31,7,5.42,21
+2025-10,6,Pune,Honda,City,27,6,5.11,18
+2025-10,6,Pune,Tata,Nexon EV,30,7,5.21,18
+2025-10,6,Pune,Toyota,Innova Hycross,27,6,5.19,17
+2025-10,6,Pune,Maruti Suzuki,Brezza,25,6,5.36,15
+2025-10,6,Pune,Mahindra,Scorpio-N,20,4,4.37,14
+2025-10,6,Hyderabad,Hyundai,Creta,40,9,6.03,24
+2025-10,6,Hyderabad,Tata,Nexon,39,8,5.41,27
+2025-10,6,Hyderabad,Maruti Suzuki,Grand Vitara,38,9,5.75,26
+2025-10,6,Hyderabad,Mahindra,XUV700,35,7,5.46,23
+2025-10,6,Hyderabad,Kia,Seltos,34,7,5.48,24
+2025-10,6,Hyderabad,Honda,City,29,6,5.21,18
+2025-10,6,Hyderabad,Tata,Nexon EV,27,7,5.26,16
+2025-10,6,Hyderabad,Toyota,Innova Hycross,26,6,5.03,18
+2025-10,6,Hyderabad,Maruti Suzuki,Brezza,28,7,5.36,18
+2025-10,6,Hyderabad,Mahindra,Scorpio-N,22,5,5.06,14
+2025-10,6,Chennai,Hyundai,Creta,32,7,5.31,22
+2025-10,6,Chennai,Tata,Nexon,30,7,5.23,19
+2025-10,6,Chennai,Maruti Suzuki,Grand Vitara,31,7,5.3,20
+2025-10,6,Chennai,Mahindra,XUV700,29,7,5.22,20
+2025-10,6,Chennai,Kia,Seltos,28,7,5.25,17
+2025-10,6,Chennai,Honda,City,28,6,5.34,18
+2025-10,6,Chennai,Tata,Nexon EV,24,5,4.73,15
+2025-10,6,Chennai,Toyota,Innova Hycross,23,5,5.03,15
+2025-10,6,Chennai,Maruti Suzuki,Brezza,23,5,4.64,15
+2025-10,6,Chennai,Mahindra,Scorpio-N,20,4,4.26,14
+2025-11,7,Bengaluru,Hyundai,Creta,42,9,5.63,26
+2025-11,7,Bengaluru,Tata,Nexon,43,10,6.01,26
+2025-11,7,Bengaluru,Maruti Suzuki,Grand Vitara,43,9,6.2,25
+2025-11,7,Bengaluru,Mahindra,XUV700,37,8,5.49,24
+2025-11,7,Bengaluru,Kia,Seltos,37,8,5.78,22
+2025-11,7,Bengaluru,Honda,City,33,7,5.44,20
+2025-11,7,Bengaluru,Tata,Nexon EV,35,8,5.5,25
+2025-11,7,Bengaluru,Toyota,Innova Hycross,34,7,5.43,22
+2025-11,7,Bengaluru,Maruti Suzuki,Brezza,31,8,5.66,21
+2025-11,7,Bengaluru,Mahindra,Scorpio-N,29,7,5.12,20
+2025-11,7,Mumbai,Hyundai,Creta,45,10,5.93,28
+2025-11,7,Mumbai,Tata,Nexon,43,10,6.2,29
+2025-11,7,Mumbai,Maruti Suzuki,Grand Vitara,46,10,6.2,30
+2025-11,7,Mumbai,Mahindra,XUV700,42,10,6.13,26
+2025-11,7,Mumbai,Kia,Seltos,38,9,5.68,25
+2025-11,7,Mumbai,Honda,City,35,8,5.35,25
+2025-11,7,Mumbai,Tata,Nexon EV,33,8,5.77,23
+2025-11,7,Mumbai,Toyota,Innova Hycross,32,7,5.36,20
+2025-11,7,Mumbai,Maruti Suzuki,Brezza,27,6,5.27,17
+2025-11,7,Mumbai,Mahindra,Scorpio-N,31,6,5.33,22
+2025-11,7,Delhi NCR,Hyundai,Creta,50,12,7.03,36
+2025-11,7,Delhi NCR,Tata,Nexon,52,12,6.96,36
+2025-11,7,Delhi NCR,Maruti Suzuki,Grand Vitara,45,10,6.45,27
+2025-11,7,Delhi NCR,Mahindra,XUV700,44,10,6.43,28
+2025-11,7,Delhi NCR,Kia,Seltos,42,10,6.13,30
+2025-11,7,Delhi NCR,Honda,City,42,10,6.24,28
+2025-11,7,Delhi NCR,Tata,Nexon EV,39,8,5.82,27
+2025-11,7,Delhi NCR,Toyota,Innova Hycross,33,7,5.54,23
+2025-11,7,Delhi NCR,Maruti Suzuki,Brezza,34,8,5.73,21
+2025-11,7,Delhi NCR,Mahindra,Scorpio-N,33,7,5.31,21
+2025-11,7,Pune,Hyundai,Creta,37,8,5.75,24
+2025-11,7,Pune,Tata,Nexon,37,8,5.7,22
+2025-11,7,Pune,Maruti Suzuki,Grand Vitara,37,8,5.52,26
+2025-11,7,Pune,Mahindra,XUV700,36,8,5.91,26
+2025-11,7,Pune,Kia,Seltos,32,7,5.15,23
+2025-11,7,Pune,Honda,City,29,7,5.62,18
+2025-11,7,Pune,Tata,Nexon EV,27,6,5.15,18
+2025-11,7,Pune,Toyota,Innova Hycross,25,6,5.05,16
+2025-11,7,Pune,Maruti Suzuki,Brezza,25,6,4.91,17
+2025-11,7,Pune,Mahindra,Scorpio-N,26,6,5.06,16
+2025-11,7,Hyderabad,Hyundai,Creta,38,9,5.78,25
+2025-11,7,Hyderabad,Tata,Nexon,40,8,5.88,24
+2025-11,7,Hyderabad,Maruti Suzuki,Grand Vitara,35,7,5.3,22
+2025-11,7,Hyderabad,Mahindra,XUV700,37,8,5.72,25
+2025-11,7,Hyderabad,Kia,Seltos,33,8,5.93,20
+2025-11,7,Hyderabad,Honda,City,28,6,5.29,17
+2025-11,7,Hyderabad,Tata,Nexon EV,30,7,5.64,22
+2025-11,7,Hyderabad,Toyota,Innova Hycross,25,6,4.9,16
+2025-11,7,Hyderabad,Maruti Suzuki,Brezza,27,6,5.28,19
+2025-11,7,Hyderabad,Mahindra,Scorpio-N,23,6,5.12,15
+2025-11,7,Chennai,Hyundai,Creta,35,8,5.66,22
+2025-11,7,Chennai,Tata,Nexon,31,8,5.65,20
+2025-11,7,Chennai,Maruti Suzuki,Grand Vitara,31,8,5.78,20
+2025-11,7,Chennai,Mahindra,XUV700,29,7,5.49,21
+2025-11,7,Chennai,Kia,Seltos,27,6,5.17,18
+2025-11,7,Chennai,Honda,City,27,6,5.1,18
+2025-11,7,Chennai,Tata,Nexon EV,26,6,5.06,16
+2025-11,7,Chennai,Toyota,Innova Hycross,26,6,4.84,15
+2025-11,7,Chennai,Maruti Suzuki,Brezza,24,5,4.75,17
+2025-11,7,Chennai,Mahindra,Scorpio-N,20,4,4.43,14
+2025-12,8,Bengaluru,Hyundai,Creta,34,8,5.78,22
+2025-12,8,Bengaluru,Tata,Nexon,30,6,4.79,19
+2025-12,8,Bengaluru,Maruti Suzuki,Grand Vitara,30,7,5.62,21
+2025-12,8,Bengaluru,Mahindra,XUV700,28,6,4.93,17
+2025-12,8,Bengaluru,Kia,Seltos,27,6,5.35,16
+2025-12,8,Bengaluru,Honda,City,27,6,4.89,19
+2025-12,8,Bengaluru,Tata,Nexon EV,28,7,5.32,18
+2025-12,8,Bengaluru,Toyota,Innova Hycross,24,6,5.22,14
+2025-12,8,Bengaluru,Maruti Suzuki,Brezza,24,5,4.57,16
+2025-12,8,Bengaluru,Mahindra,Scorpio-N,22,5,4.71,14
+2025-12,8,Mumbai,Hyundai,Creta,38,8,5.67,27
+2025-12,8,Mumbai,Tata,Nexon,37,8,5.81,26
+2025-12,8,Mumbai,Maruti Suzuki,Grand Vitara,35,8,5.69,25
+2025-12,8,Mumbai,Mahindra,XUV700,30,6,5.36,19
+2025-12,8,Mumbai,Kia,Seltos,29,7,5.46,20
+2025-12,8,Mumbai,Honda,City,26,6,5.22,16
+2025-12,8,Mumbai,Tata,Nexon EV,27,6,4.89,17
+2025-12,8,Mumbai,Toyota,Innova Hycross,27,6,5.1,17
+2025-12,8,Mumbai,Maruti Suzuki,Brezza,21,5,4.95,13
+2025-12,8,Mumbai,Mahindra,Scorpio-N,23,5,4.97,14
+2025-12,8,Delhi NCR,Hyundai,Creta,42,10,6.16,25
+2025-12,8,Delhi NCR,Tata,Nexon,36,8,5.88,21
+2025-12,8,Delhi NCR,Maruti Suzuki,Grand Vitara,38,9,5.83,23
+2025-12,8,Delhi NCR,Mahindra,XUV700,34,7,5.1,24
+2025-12,8,Delhi NCR,Kia,Seltos,30,7,5.33,22
+2025-12,8,Delhi NCR,Honda,City,30,7,5.15,18
+2025-12,8,Delhi NCR,Tata,Nexon EV,29,7,5.29,18
+2025-12,8,Delhi NCR,Toyota,Innova Hycross,27,6,5.02,18
+2025-12,8,Delhi NCR,Maruti Suzuki,Brezza,24,5,4.84,16
+2025-12,8,Delhi NCR,Mahindra,Scorpio-N,23,5,4.67,14
+2025-12,8,Pune,Hyundai,Creta,27,7,5.55,16
+2025-12,8,Pune,Tata,Nexon,28,6,5.19,16
+2025-12,8,Pune,Maruti Suzuki,Grand Vitara,29,6,4.89,17
+2025-12,8,Pune,Mahindra,XUV700,24,6,4.78,16
+2025-12,8,Pune,Kia,Seltos,23,5,4.54,14
+2025-12,8,Pune,Honda,City,21,5,4.57,14
+2025-12,8,Pune,Tata,Nexon EV,20,4,4.31,12
+2025-12,8,Pune,Toyota,Innova Hycross,20,5,4.83,12
+2025-12,8,Pune,Maruti Suzuki,Brezza,17,4,4.59,11
+2025-12,8,Pune,Mahindra,Scorpio-N,18,4,4.51,11
+2025-12,8,Hyderabad,Hyundai,Creta,34,8,5.51,21
+2025-12,8,Hyderabad,Tata,Nexon,27,6,5.1,18
+2025-12,8,Hyderabad,Maruti Suzuki,Grand Vitara,29,6,4.86,17
+2025-12,8,Hyderabad,Mahindra,XUV700,25,6,5.05,15
+2025-12,8,Hyderabad,Kia,Seltos,24,6,4.9,16
+2025-12,8,Hyderabad,Honda,City,22,5,4.69,14
+2025-12,8,Hyderabad,Tata,Nexon EV,23,6,5.26,16
+2025-12,8,Hyderabad,Toyota,Innova Hycross,23,5,4.96,16
+2025-12,8,Hyderabad,Maruti Suzuki,Brezza,21,5,4.59,15
+2025-12,8,Hyderabad,Mahindra,Scorpio-N,21,5,5.08,12
+2025-12,8,Chennai,Hyundai,Creta,24,6,5.15,17
+2025-12,8,Chennai,Tata,Nexon,24,5,5,15
+2025-12,8,Chennai,Maruti Suzuki,Grand Vitara,24,5,5.01,14
+2025-12,8,Chennai,Mahindra,XUV700,25,5,4.81,17
+2025-12,8,Chennai,Kia,Seltos,21,5,4.87,15
+2025-12,8,Chennai,Honda,City,19,4,4.81,12
+2025-12,8,Chennai,Tata,Nexon EV,19,5,4.88,13
+2025-12,8,Chennai,Toyota,Innova Hycross,17,4,4.65,12
+2025-12,8,Chennai,Maruti Suzuki,Brezza,19,4,4.22,13
+2025-12,8,Chennai,Mahindra,Scorpio-N,13,2,3.81,9
+2026-01,9,Bengaluru,Hyundai,Creta,34,8,5.53,20
+2026-01,9,Bengaluru,Tata,Nexon,33,7,5.65,23
+2026-01,9,Bengaluru,Maruti Suzuki,Grand Vitara,31,6,5.26,20
+2026-01,9,Bengaluru,Mahindra,XUV700,32,7,5.25,22
+2026-01,9,Bengaluru,Kia,Seltos,29,7,5.22,19
+2026-01,9,Bengaluru,Honda,City,29,6,5.06,17
+2026-01,9,Bengaluru,Tata,Nexon EV,27,6,5.31,19
+2026-01,9,Bengaluru,Toyota,Innova Hycross,27,6,5.21,16
+2026-01,9,Bengaluru,Maruti Suzuki,Brezza,24,5,5.04,17
+2026-01,9,Bengaluru,Mahindra,Scorpio-N,23,5,4.55,14
+2026-01,9,Mumbai,Hyundai,Creta,37,8,5.67,24
+2026-01,9,Mumbai,Tata,Nexon,35,8,5.84,24
+2026-01,9,Mumbai,Maruti Suzuki,Grand Vitara,33,8,5.36,20
+2026-01,9,Mumbai,Mahindra,XUV700,31,7,5.44,18
+2026-01,9,Mumbai,Kia,Seltos,27,7,5.52,17
+2026-01,9,Mumbai,Honda,City,26,6,5.09,17
+2026-01,9,Mumbai,Tata,Nexon EV,29,7,5.08,19
+2026-01,9,Mumbai,Toyota,Innova Hycross,26,6,5,19
+2026-01,9,Mumbai,Maruti Suzuki,Brezza,25,6,4.97,16
+2026-01,9,Mumbai,Mahindra,Scorpio-N,21,4,4.29,15
+2026-01,9,Delhi NCR,Hyundai,Creta,40,9,5.88,27
+2026-01,9,Delhi NCR,Tata,Nexon,41,9,5.78,29
+2026-01,9,Delhi NCR,Maruti Suzuki,Grand Vitara,40,9,5.68,26
+2026-01,9,Delhi NCR,Mahindra,XUV700,38,8,5.77,23
+2026-01,9,Delhi NCR,Kia,Seltos,31,6,5.21,20
+2026-01,9,Delhi NCR,Honda,City,30,7,5.6,20
+2026-01,9,Delhi NCR,Tata,Nexon EV,29,7,5.58,19
+2026-01,9,Delhi NCR,Toyota,Innova Hycross,29,6,5.15,19
+2026-01,9,Delhi NCR,Maruti Suzuki,Brezza,28,6,5.19,20
+2026-01,9,Delhi NCR,Mahindra,Scorpio-N,26,6,5.07,15
+2026-01,9,Pune,Hyundai,Creta,30,6,5.17,20
+2026-01,9,Pune,Tata,Nexon,28,6,5.01,19
+2026-01,9,Pune,Maruti Suzuki,Grand Vitara,27,6,5.34,18
+2026-01,9,Pune,Mahindra,XUV700,25,5,4.72,18
+2026-01,9,Pune,Kia,Seltos,25,6,4.81,17
+2026-01,9,Pune,Honda,City,22,5,5.06,15
+2026-01,9,Pune,Tata,Nexon EV,20,5,4.76,12
+2026-01,9,Pune,Toyota,Innova Hycross,23,5,5.09,15
+2026-01,9,Pune,Maruti Suzuki,Brezza,18,4,4.28,13
+2026-01,9,Pune,Mahindra,Scorpio-N,17,4,4.55,10
+2026-01,9,Hyderabad,Hyundai,Creta,34,8,5.43,24
+2026-01,9,Hyderabad,Tata,Nexon,27,6,5.09,19
+2026-01,9,Hyderabad,Maruti Suzuki,Grand Vitara,30,7,5.39,21
+2026-01,9,Hyderabad,Mahindra,XUV700,25,5,4.73,15
+2026-01,9,Hyderabad,Kia,Seltos,23,5,4.68,15
+2026-01,9,Hyderabad,Honda,City,21,4,4.72,15
+2026-01,9,Hyderabad,Tata,Nexon EV,23,5,4.75,16
+2026-01,9,Hyderabad,Toyota,Innova Hycross,19,4,4.28,13
+2026-01,9,Hyderabad,Maruti Suzuki,Brezza,19,5,4.59,12
+2026-01,9,Hyderabad,Mahindra,Scorpio-N,19,5,4.64,13
+2026-01,9,Chennai,Hyundai,Creta,29,6,5.2,20
+2026-01,9,Chennai,Tata,Nexon,26,6,4.91,18
+2026-01,9,Chennai,Maruti Suzuki,Grand Vitara,26,6,5.21,18
+2026-01,9,Chennai,Mahindra,XUV700,22,5,4.79,15
+2026-01,9,Chennai,Kia,Seltos,22,5,4.91,15
+2026-01,9,Chennai,Honda,City,23,5,4.69,16
+2026-01,9,Chennai,Tata,Nexon EV,17,4,4.76,10
+2026-01,9,Chennai,Toyota,Innova Hycross,21,5,4.91,13
+2026-01,9,Chennai,Maruti Suzuki,Brezza,19,4,4.8,13
+2026-01,9,Chennai,Mahindra,Scorpio-N,19,4,4.64,13
+2026-02,10,Bengaluru,Hyundai,Creta,37,9,6.13,21
+2026-02,10,Bengaluru,Tata,Nexon,37,9,5.87,25
+2026-02,10,Bengaluru,Maruti Suzuki,Grand Vitara,33,8,5.71,23
+2026-02,10,Bengaluru,Mahindra,XUV700,30,7,5.43,18
+2026-02,10,Bengaluru,Kia,Seltos,32,8,5.46,22
+2026-02,10,Bengaluru,Honda,City,29,7,5.28,20
+2026-02,10,Bengaluru,Tata,Nexon EV,25,6,5.36,18
+2026-02,10,Bengaluru,Toyota,Innova Hycross,23,5,4.64,13
+2026-02,10,Bengaluru,Maruti Suzuki,Brezza,21,5,5.04,13
+2026-02,10,Bengaluru,Mahindra,Scorpio-N,20,4,4.82,12
+2026-02,10,Mumbai,Hyundai,Creta,40,9,5.94,27
+2026-02,10,Mumbai,Tata,Nexon,35,8,5.91,24
+2026-02,10,Mumbai,Maruti Suzuki,Grand Vitara,32,8,5.69,20
+2026-02,10,Mumbai,Mahindra,XUV700,32,7,5.52,19
+2026-02,10,Mumbai,Kia,Seltos,32,8,5.38,23
+2026-02,10,Mumbai,Honda,City,27,7,5.16,16
+2026-02,10,Mumbai,Tata,Nexon EV,27,6,5.28,16
+2026-02,10,Mumbai,Toyota,Innova Hycross,27,6,5.23,17
+2026-02,10,Mumbai,Maruti Suzuki,Brezza,25,6,4.83,15
+2026-02,10,Mumbai,Mahindra,Scorpio-N,23,5,4.85,14
+2026-02,10,Delhi NCR,Hyundai,Creta,40,9,6.06,25
+2026-02,10,Delhi NCR,Tata,Nexon,41,9,5.97,28
+2026-02,10,Delhi NCR,Maruti Suzuki,Grand Vitara,41,10,5.91,28
+2026-02,10,Delhi NCR,Mahindra,XUV700,36,8,5.82,22
+2026-02,10,Delhi NCR,Kia,Seltos,36,8,5.84,22
+2026-02,10,Delhi NCR,Honda,City,32,7,5.38,22
+2026-02,10,Delhi NCR,Tata,Nexon EV,28,7,5.48,18
+2026-02,10,Delhi NCR,Toyota,Innova Hycross,27,6,5.08,19
+2026-02,10,Delhi NCR,Maruti Suzuki,Brezza,26,6,5.08,16
+2026-02,10,Delhi NCR,Mahindra,Scorpio-N,26,6,4.97,15
+2026-02,10,Pune,Hyundai,Creta,29,7,5.3,19
+2026-02,10,Pune,Tata,Nexon,26,6,4.84,18
+2026-02,10,Pune,Maruti Suzuki,Grand Vitara,29,6,4.79,19
+2026-02,10,Pune,Mahindra,XUV700,26,6,4.81,16
+2026-02,10,Pune,Kia,Seltos,26,5,4.6,17
+2026-02,10,Pune,Honda,City,26,5,4.65,18
+2026-02,10,Pune,Tata,Nexon EV,24,6,5.03,16
+2026-02,10,Pune,Toyota,Innova Hycross,23,5,5,16
+2026-02,10,Pune,Maruti Suzuki,Brezza,21,4,4.75,14
+2026-02,10,Pune,Mahindra,Scorpio-N,17,4,4.43,12
+2026-02,10,Hyderabad,Hyundai,Creta,34,7,5.21,24
+2026-02,10,Hyderabad,Tata,Nexon,28,6,5.16,19
+2026-02,10,Hyderabad,Maruti Suzuki,Grand Vitara,30,6,5.08,17
+2026-02,10,Hyderabad,Mahindra,XUV700,27,6,4.85,17
+2026-02,10,Hyderabad,Kia,Seltos,27,6,5.19,19
+2026-02,10,Hyderabad,Honda,City,22,5,4.62,13
+2026-02,10,Hyderabad,Tata,Nexon EV,22,5,4.62,15
+2026-02,10,Hyderabad,Toyota,Innova Hycross,24,6,5.01,17
+2026-02,10,Hyderabad,Maruti Suzuki,Brezza,23,6,5.14,14
+2026-02,10,Hyderabad,Mahindra,Scorpio-N,16,4,4.23,10
+2026-02,10,Chennai,Hyundai,Creta,25,5,4.59,17
+2026-02,10,Chennai,Tata,Nexon,27,6,5,19
+2026-02,10,Chennai,Maruti Suzuki,Grand Vitara,23,5,5.09,16
+2026-02,10,Chennai,Mahindra,XUV700,25,5,4.92,15
+2026-02,10,Chennai,Kia,Seltos,20,5,5.03,13
+2026-02,10,Chennai,Honda,City,21,5,4.78,13
+2026-02,10,Chennai,Tata,Nexon EV,23,6,5.34,15
+2026-02,10,Chennai,Toyota,Innova Hycross,21,4,4.57,14
+2026-02,10,Chennai,Maruti Suzuki,Brezza,15,3,4.37,9
+2026-02,10,Chennai,Mahindra,Scorpio-N,16,4,4.81,11
+2026-03,11,Bengaluru,Hyundai,Creta,40,8,5.51,29
+2026-03,11,Bengaluru,Tata,Nexon,41,9,5.69,29
+2026-03,11,Bengaluru,Maruti Suzuki,Grand Vitara,41,9,6.03,25
+2026-03,11,Bengaluru,Mahindra,XUV700,34,7,5.34,22
+2026-03,11,Bengaluru,Kia,Seltos,36,9,6.04,23
+2026-03,11,Bengaluru,Honda,City,31,7,5.17,22
+2026-03,11,Bengaluru,Tata,Nexon EV,31,7,5.52,22
+2026-03,11,Bengaluru,Toyota,Innova Hycross,30,7,5.2,18
+2026-03,11,Bengaluru,Maruti Suzuki,Brezza,28,6,4.98,19
+2026-03,11,Bengaluru,Mahindra,Scorpio-N,24,5,4.92,17
+2026-03,11,Mumbai,Hyundai,Creta,45,10,6.01,31
+2026-03,11,Mumbai,Tata,Nexon,43,9,6.03,31
+2026-03,11,Mumbai,Maruti Suzuki,Grand Vitara,40,9,5.85,29
+2026-03,11,Mumbai,Mahindra,XUV700,36,8,5.54,21
+2026-03,11,Mumbai,Kia,Seltos,34,8,5.37,20
+2026-03,11,Mumbai,Honda,City,35,8,5.78,23
+2026-03,11,Mumbai,Tata,Nexon EV,31,7,5.21,21
+2026-03,11,Mumbai,Toyota,Innova Hycross,30,7,5.14,19
+2026-03,11,Mumbai,Maruti Suzuki,Brezza,31,6,5.34,21
+2026-03,11,Mumbai,Mahindra,Scorpio-N,24,6,5.09,16
+2026-03,11,Delhi NCR,Hyundai,Creta,46,10,6.05,27
+2026-03,11,Delhi NCR,Tata,Nexon,46,11,6.35,31
+2026-03,11,Delhi NCR,Maruti Suzuki,Grand Vitara,44,9,5.92,31
+2026-03,11,Delhi NCR,Mahindra,XUV700,45,10,6.16,28
+2026-03,11,Delhi NCR,Kia,Seltos,39,9,6.11,27
+2026-03,11,Delhi NCR,Honda,City,38,9,5.87,26
+2026-03,11,Delhi NCR,Tata,Nexon EV,36,8,5.75,22
+2026-03,11,Delhi NCR,Toyota,Innova Hycross,34,8,5.88,20
+2026-03,11,Delhi NCR,Maruti Suzuki,Brezza,31,7,5.43,22
+2026-03,11,Delhi NCR,Mahindra,Scorpio-N,32,7,5.35,21
+2026-03,11,Pune,Hyundai,Creta,37,8,5.81,25
+2026-03,11,Pune,Tata,Nexon,37,8,5.6,26
+2026-03,11,Pune,Maruti Suzuki,Grand Vitara,30,7,5.2,18
+2026-03,11,Pune,Mahindra,XUV700,28,6,5.33,20
+2026-03,11,Pune,Kia,Seltos,29,6,5.32,20
+2026-03,11,Pune,Honda,City,27,6,5.2,18
+2026-03,11,Pune,Tata,Nexon EV,24,6,5.34,15
+2026-03,11,Pune,Toyota,Innova Hycross,24,5,4.86,14
+2026-03,11,Pune,Maruti Suzuki,Brezza,24,5,4.72,16
+2026-03,11,Pune,Mahindra,Scorpio-N,20,5,5.09,14
+2026-03,11,Hyderabad,Hyundai,Creta,36,8,5.4,23
+2026-03,11,Hyderabad,Tata,Nexon,35,8,5.4,24
+2026-03,11,Hyderabad,Maruti Suzuki,Grand Vitara,36,8,5.93,22
+2026-03,11,Hyderabad,Mahindra,XUV700,34,8,5.45,20
+2026-03,11,Hyderabad,Kia,Seltos,30,7,5.46,19
+2026-03,11,Hyderabad,Honda,City,30,7,5.59,20
+2026-03,11,Hyderabad,Tata,Nexon EV,29,6,5.14,18
+2026-03,11,Hyderabad,Toyota,Innova Hycross,26,6,4.98,17
+2026-03,11,Hyderabad,Maruti Suzuki,Brezza,23,5,4.58,15
+2026-03,11,Hyderabad,Mahindra,Scorpio-N,20,5,4.58,12
+2026-03,11,Chennai,Hyundai,Creta,33,7,5.11,19
+2026-03,11,Chennai,Tata,Nexon,33,8,5.62,20
+2026-03,11,Chennai,Maruti Suzuki,Grand Vitara,31,7,5.35,20
+2026-03,11,Chennai,Mahindra,XUV700,27,6,5.13,19
+2026-03,11,Chennai,Kia,Seltos,23,6,4.8,15
+2026-03,11,Chennai,Honda,City,23,6,4.92,16
+2026-03,11,Chennai,Tata,Nexon EV,22,5,4.63,14
+2026-03,11,Chennai,Toyota,Innova Hycross,23,5,4.92,14
+2026-03,11,Chennai,Maruti Suzuki,Brezza,18,4,4.6,12
+2026-03,11,Chennai,Mahindra,Scorpio-N,18,4,4.23,11
+2026-04,12,Bengaluru,Hyundai,Creta,37,9,6.11,23
+2026-04,12,Bengaluru,Tata,Nexon,33,8,5.94,20
+2026-04,12,Bengaluru,Maruti Suzuki,Grand Vitara,32,7,5.44,19
+2026-04,12,Bengaluru,Mahindra,XUV700,35,8,5.39,24
+2026-04,12,Bengaluru,Kia,Seltos,33,8,5.85,19
+2026-04,12,Bengaluru,Honda,City,31,7,5.34,22
+2026-04,12,Bengaluru,Tata,Nexon EV,28,7,5.09,20
+2026-04,12,Bengaluru,Toyota,Innova Hycross,26,6,5.37,16
+2026-04,12,Bengaluru,Maruti Suzuki,Brezza,24,5,4.66,15
+2026-04,12,Bengaluru,Mahindra,Scorpio-N,25,6,5.21,15
+2026-04,12,Mumbai,Hyundai,Creta,38,8,5.41,27
+2026-04,12,Mumbai,Tata,Nexon,39,9,6.11,24
+2026-04,12,Mumbai,Maruti Suzuki,Grand Vitara,37,8,5.46,24
+2026-04,12,Mumbai,Mahindra,XUV700,32,7,5.54,19
+2026-04,12,Mumbai,Kia,Seltos,29,7,5.38,19
+2026-04,12,Mumbai,Honda,City,29,7,5.6,20
+2026-04,12,Mumbai,Tata,Nexon EV,29,6,5.34,18
+2026-04,12,Mumbai,Toyota,Innova Hycross,27,6,4.9,16
+2026-04,12,Mumbai,Maruti Suzuki,Brezza,26,6,4.82,16
+2026-04,12,Mumbai,Mahindra,Scorpio-N,20,4,4.41,14
+2026-04,12,Delhi NCR,Hyundai,Creta,42,9,5.83,27
+2026-04,12,Delhi NCR,Tata,Nexon,41,9,6.07,24
+2026-04,12,Delhi NCR,Maruti Suzuki,Grand Vitara,37,8,5.39,26
+2026-04,12,Delhi NCR,Mahindra,XUV700,35,8,5.42,21
+2026-04,12,Delhi NCR,Kia,Seltos,36,8,5.68,25
+2026-04,12,Delhi NCR,Honda,City,31,7,5.4,22
+2026-04,12,Delhi NCR,Tata,Nexon EV,29,7,5.23,19
+2026-04,12,Delhi NCR,Toyota,Innova Hycross,28,6,5.38,19
+2026-04,12,Delhi NCR,Maruti Suzuki,Brezza,30,6,4.83,20
+2026-04,12,Delhi NCR,Mahindra,Scorpio-N,23,5,4.95,16
+2026-04,12,Pune,Hyundai,Creta,29,6,5.13,19
+2026-04,12,Pune,Tata,Nexon,28,6,5.21,18
+2026-04,12,Pune,Maruti Suzuki,Grand Vitara,29,7,5.64,19
+2026-04,12,Pune,Mahindra,XUV700,29,6,5.25,18
+2026-04,12,Pune,Kia,Seltos,27,6,5.18,18
+2026-04,12,Pune,Honda,City,26,5,4.56,16
+2026-04,12,Pune,Tata,Nexon EV,23,5,4.97,13
+2026-04,12,Pune,Toyota,Innova Hycross,20,4,4.32,12
+2026-04,12,Pune,Maruti Suzuki,Brezza,21,5,5,13
+2026-04,12,Pune,Mahindra,Scorpio-N,21,5,4.73,14
+2026-04,12,Hyderabad,Hyundai,Creta,30,7,5.33,19
+2026-04,12,Hyderabad,Tata,Nexon,34,8,5.91,23
+2026-04,12,Hyderabad,Maruti Suzuki,Grand Vitara,31,7,5.58,20
+2026-04,12,Hyderabad,Mahindra,XUV700,25,6,4.81,16
+2026-04,12,Hyderabad,Kia,Seltos,25,5,5.03,15
+2026-04,12,Hyderabad,Honda,City,27,6,5.34,17
+2026-04,12,Hyderabad,Tata,Nexon EV,21,5,4.62,13
+2026-04,12,Hyderabad,Toyota,Innova Hycross,25,6,4.93,17
+2026-04,12,Hyderabad,Maruti Suzuki,Brezza,22,5,4.76,14
+2026-04,12,Hyderabad,Mahindra,Scorpio-N,18,5,4.74,12
+2026-04,12,Chennai,Hyundai,Creta,31,7,5.39,18
+2026-04,12,Chennai,Tata,Nexon,26,6,4.83,17
+2026-04,12,Chennai,Maruti Suzuki,Grand Vitara,23,5,4.89,14
+2026-04,12,Chennai,Mahindra,XUV700,25,5,5.08,17
+2026-04,12,Chennai,Kia,Seltos,21,5,4.81,14
+2026-04,12,Chennai,Honda,City,23,5,4.54,15
+2026-04,12,Chennai,Tata,Nexon EV,20,5,4.98,13
+2026-04,12,Chennai,Toyota,Innova Hycross,20,5,4.52,12
+2026-04,12,Chennai,Maruti Suzuki,Brezza,15,4,4.39,10
+2026-04,12,Chennai,Mahindra,Scorpio-N,18,4,4.8,11
+2026-05,13,Bengaluru,Hyundai,Creta,35,8,5.51,23
+2026-05,13,Bengaluru,Tata,Nexon,33,8,5.83,21
+2026-05,13,Bengaluru,Maruti Suzuki,Grand Vitara,36,8,5.69,21
+2026-05,13,Bengaluru,Mahindra,XUV700,33,8,5.69,23
+2026-05,13,Bengaluru,Kia,Seltos,31,7,5.63,20
+2026-05,13,Bengaluru,Honda,City,28,7,5.24,19
+2026-05,13,Bengaluru,Tata,Nexon EV,29,6,5.03,17
+2026-05,13,Bengaluru,Toyota,Innova Hycross,27,7,5.26,16
+2026-05,13,Bengaluru,Maruti Suzuki,Brezza,24,6,4.99,15
+2026-05,13,Bengaluru,Mahindra,Scorpio-N,21,5,4.68,15
+2026-05,13,Mumbai,Hyundai,Creta,39,9,5.63,25
+2026-05,13,Mumbai,Tata,Nexon,36,8,5.7,25
+2026-05,13,Mumbai,Maruti Suzuki,Grand Vitara,37,8,5.88,26
+2026-05,13,Mumbai,Mahindra,XUV700,34,8,5.63,24
+2026-05,13,Mumbai,Kia,Seltos,32,7,5.6,21
+2026-05,13,Mumbai,Honda,City,29,7,5.08,19
+2026-05,13,Mumbai,Tata,Nexon EV,30,7,5.62,21
+2026-05,13,Mumbai,Toyota,Innova Hycross,25,5,5,18
+2026-05,13,Mumbai,Maruti Suzuki,Brezza,25,5,4.91,16
+2026-05,13,Mumbai,Mahindra,Scorpio-N,21,4,4.51,15
+2026-05,13,Delhi NCR,Hyundai,Creta,44,10,6.06,29
+2026-05,13,Delhi NCR,Tata,Nexon,43,10,6.05,30
+2026-05,13,Delhi NCR,Maruti Suzuki,Grand Vitara,40,9,6.19,27
+2026-05,13,Delhi NCR,Mahindra,XUV700,36,8,5.44,24
+2026-05,13,Delhi NCR,Kia,Seltos,34,8,5.59,22
+2026-05,13,Delhi NCR,Honda,City,35,8,5.59,24
+2026-05,13,Delhi NCR,Tata,Nexon EV,29,6,5.29,20
+2026-05,13,Delhi NCR,Toyota,Innova Hycross,30,7,5.44,19
+2026-05,13,Delhi NCR,Maruti Suzuki,Brezza,30,7,5.3,18
+2026-05,13,Delhi NCR,Mahindra,Scorpio-N,28,6,4.8,17
+2026-05,13,Pune,Hyundai,Creta,31,7,5.43,18
+2026-05,13,Pune,Tata,Nexon,31,7,5.45,19
+2026-05,13,Pune,Maruti Suzuki,Grand Vitara,29,6,4.99,19
+2026-05,13,Pune,Mahindra,XUV700,25,5,4.52,18
+2026-05,13,Pune,Kia,Seltos,28,6,5.14,18
+2026-05,13,Pune,Honda,City,24,5,4.86,15
+2026-05,13,Pune,Tata,Nexon EV,23,5,4.64,16
+2026-05,13,Pune,Toyota,Innova Hycross,19,4,4.3,13
+2026-05,13,Pune,Maruti Suzuki,Brezza,22,5,4.64,15
+2026-05,13,Pune,Mahindra,Scorpio-N,22,5,4.64,15
+2026-05,13,Hyderabad,Hyundai,Creta,33,7,5.25,20
+2026-05,13,Hyderabad,Tata,Nexon,29,7,5.47,18
+2026-05,13,Hyderabad,Maruti Suzuki,Grand Vitara,30,7,5.32,20
+2026-05,13,Hyderabad,Mahindra,XUV700,28,6,5.01,17
+2026-05,13,Hyderabad,Kia,Seltos,28,6,5.14,19
+2026-05,13,Hyderabad,Honda,City,25,6,5.27,16
+2026-05,13,Hyderabad,Tata,Nexon EV,24,6,5.1,15
+2026-05,13,Hyderabad,Toyota,Innova Hycross,20,4,4.67,14
+2026-05,13,Hyderabad,Maruti Suzuki,Brezza,20,5,4.78,12
+2026-05,13,Hyderabad,Mahindra,Scorpio-N,22,5,4.9,15
+2026-05,13,Chennai,Hyundai,Creta,28,6,4.86,17
+2026-05,13,Chennai,Tata,Nexon,30,6,5.11,21
+2026-05,13,Chennai,Maruti Suzuki,Grand Vitara,26,6,5.05,17
+2026-05,13,Chennai,Mahindra,XUV700,27,7,5.16,17
+2026-05,13,Chennai,Kia,Seltos,25,6,4.86,16
+2026-05,13,Chennai,Honda,City,23,5,4.68,15
+2026-05,13,Chennai,Tata,Nexon EV,21,5,4.94,13
+2026-05,13,Chennai,Toyota,Innova Hycross,22,5,4.57,14
+2026-05,13,Chennai,Maruti Suzuki,Brezza,21,5,4.86,15
+2026-05,13,Chennai,Mahindra,Scorpio-N,17,4,4.81,10
+2026-06,14,Bengaluru,Hyundai,Creta,31,7,5.28,21
+2026-06,14,Bengaluru,Tata,Nexon,30,6,5.01,20
+2026-06,14,Bengaluru,Maruti Suzuki,Grand Vitara,29,7,5.61,19
+2026-06,14,Bengaluru,Mahindra,XUV700,29,7,5.42,21
+2026-06,14,Bengaluru,Kia,Seltos,26,6,5.12,17
+2026-06,14,Bengaluru,Honda,City,25,5,4.5,17
+2026-06,14,Bengaluru,Tata,Nexon EV,27,6,4.87,17
+2026-06,14,Bengaluru,Toyota,Innova Hycross,25,6,5.01,15
+2026-06,14,Bengaluru,Maruti Suzuki,Brezza,23,5,4.71,14
+2026-06,14,Bengaluru,Mahindra,Scorpio-N,22,5,4.78,13
+2026-06,14,Mumbai,Hyundai,Creta,35,8,5.64,25
+2026-06,14,Mumbai,Tata,Nexon,36,8,5.63,25
+2026-06,14,Mumbai,Maruti Suzuki,Grand Vitara,30,6,4.98,19
+2026-06,14,Mumbai,Mahindra,XUV700,28,6,4.83,18
+2026-06,14,Mumbai,Kia,Seltos,32,7,5.59,22
+2026-06,14,Mumbai,Honda,City,27,6,4.8,17
+2026-06,14,Mumbai,Tata,Nexon EV,29,6,5.28,20
+2026-06,14,Mumbai,Toyota,Innova Hycross,23,6,5.27,16
+2026-06,14,Mumbai,Maruti Suzuki,Brezza,22,5,4.55,13
+2026-06,14,Mumbai,Mahindra,Scorpio-N,20,4,4.66,13
+2026-06,14,Delhi NCR,Hyundai,Creta,40,9,6.12,25
+2026-06,14,Delhi NCR,Tata,Nexon,41,10,6.19,27
+2026-06,14,Delhi NCR,Maruti Suzuki,Grand Vitara,37,8,5.56,23
+2026-06,14,Delhi NCR,Mahindra,XUV700,33,7,5.2,21
+2026-06,14,Delhi NCR,Kia,Seltos,32,7,5.08,20
+2026-06,14,Delhi NCR,Honda,City,30,7,5.37,19
+2026-06,14,Delhi NCR,Tata,Nexon EV,31,7,5.59,22
+2026-06,14,Delhi NCR,Toyota,Innova Hycross,28,6,5.33,17
+2026-06,14,Delhi NCR,Maruti Suzuki,Brezza,26,6,5.17,18
+2026-06,14,Delhi NCR,Mahindra,Scorpio-N,25,6,5,18
+2026-06,14,Pune,Hyundai,Creta,31,7,5.51,21
+2026-06,14,Pune,Tata,Nexon,25,6,4.86,17
+2026-06,14,Pune,Maruti Suzuki,Grand Vitara,24,6,5.21,17
+2026-06,14,Pune,Mahindra,XUV700,27,6,5.26,18
+2026-06,14,Pune,Kia,Seltos,24,6,5.14,16
+2026-06,14,Pune,Honda,City,23,5,4.59,15
+2026-06,14,Pune,Tata,Nexon EV,19,5,4.77,13
+2026-06,14,Pune,Toyota,Innova Hycross,19,4,4.4,12
+2026-06,14,Pune,Maruti Suzuki,Brezza,18,4,4.33,12
+2026-06,14,Pune,Mahindra,Scorpio-N,18,4,4.57,11
+2026-06,14,Hyderabad,Hyundai,Creta,32,7,5.34,20
+2026-06,14,Hyderabad,Tata,Nexon,31,7,5.63,19
+2026-06,14,Hyderabad,Maruti Suzuki,Grand Vitara,26,6,5.3,16
+2026-06,14,Hyderabad,Mahindra,XUV700,27,6,4.88,17
+2026-06,14,Hyderabad,Kia,Seltos,24,5,4.58,17
+2026-06,14,Hyderabad,Honda,City,24,5,5.02,16
+2026-06,14,Hyderabad,Tata,Nexon EV,24,5,4.79,15
+2026-06,14,Hyderabad,Toyota,Innova Hycross,20,5,4.73,13
+2026-06,14,Hyderabad,Maruti Suzuki,Brezza,22,5,4.99,16
+2026-06,14,Hyderabad,Mahindra,Scorpio-N,21,5,4.58,14
+2026-06,14,Chennai,Hyundai,Creta,26,6,5.02,16
+2026-06,14,Chennai,Tata,Nexon,25,5,5.03,18
+2026-06,14,Chennai,Maruti Suzuki,Grand Vitara,21,4,4.45,14
+2026-06,14,Chennai,Mahindra,XUV700,21,5,4.81,12
+2026-06,14,Chennai,Kia,Seltos,20,5,4.81,12
+2026-06,14,Chennai,Honda,City,19,5,5.02,12
+2026-06,14,Chennai,Tata,Nexon EV,21,5,4.8,14
+2026-06,14,Chennai,Toyota,Innova Hycross,19,5,4.88,11
+2026-06,14,Chennai,Maruti Suzuki,Brezza,18,4,4.42,12
+2026-06,14,Chennai,Mahindra,Scorpio-N,14,3,4.16,9
+2026-07,15,Bengaluru,Hyundai,Creta,32,7,5.52,19
+2026-07,15,Bengaluru,Tata,Nexon,34,7,5.2,24
+2026-07,15,Bengaluru,Maruti Suzuki,Grand Vitara,34,7,5.62,23
+2026-07,15,Bengaluru,Mahindra,XUV700,28,7,5.62,18
+2026-07,15,Bengaluru,Kia,Seltos,29,6,5.25,17
+2026-07,15,Bengaluru,Honda,City,28,6,4.89,18
+2026-07,15,Bengaluru,Tata,Nexon EV,25,6,5.34,15
+2026-07,15,Bengaluru,Toyota,Innova Hycross,23,5,4.86,14
+2026-07,15,Bengaluru,Maruti Suzuki,Brezza,25,5,4.89,17
+2026-07,15,Bengaluru,Mahindra,Scorpio-N,19,4,4.68,12
+2026-07,15,Mumbai,Hyundai,Creta,33,8,5.58,21
+2026-07,15,Mumbai,Tata,Nexon,36,8,5.92,22
+2026-07,15,Mumbai,Maruti Suzuki,Grand Vitara,35,8,5.77,24
+2026-07,15,Mumbai,Mahindra,XUV700,32,7,5.5,21
+2026-07,15,Mumbai,Kia,Seltos,27,6,4.83,19
+2026-07,15,Mumbai,Honda,City,31,7,5.61,21
+2026-07,15,Mumbai,Tata,Nexon EV,24,6,5,14
+2026-07,15,Mumbai,Toyota,Innova Hycross,23,5,5.08,16
+2026-07,15,Mumbai,Maruti Suzuki,Brezza,23,5,4.87,14
+2026-07,15,Mumbai,Mahindra,Scorpio-N,20,5,5.02,12
+2026-07,15,Delhi NCR,Hyundai,Creta,43,10,6.13,28
+2026-07,15,Delhi NCR,Tata,Nexon,41,9,5.73,29
+2026-07,15,Delhi NCR,Maruti Suzuki,Grand Vitara,36,8,5.35,23
+2026-07,15,Delhi NCR,Mahindra,XUV700,37,8,5.63,25
+2026-07,15,Delhi NCR,Kia,Seltos,34,8,5.55,24
+2026-07,15,Delhi NCR,Honda,City,34,8,5.86,20
+2026-07,15,Delhi NCR,Tata,Nexon EV,27,6,5.16,16
+2026-07,15,Delhi NCR,Toyota,Innova Hycross,30,6,5.12,19
+2026-07,15,Delhi NCR,Maruti Suzuki,Brezza,26,6,4.81,16
+2026-07,15,Delhi NCR,Mahindra,Scorpio-N,22,5,4.76,16
+2026-07,15,Pune,Hyundai,Creta,31,7,5.24,22
+2026-07,15,Pune,Tata,Nexon,27,6,5.07,16
+2026-07,15,Pune,Maruti Suzuki,Grand Vitara,28,6,5.29,20
+2026-07,15,Pune,Mahindra,XUV700,25,6,5.03,16
+2026-07,15,Pune,Kia,Seltos,26,6,5.23,16
+2026-07,15,Pune,Honda,City,24,5,4.8,17
+2026-07,15,Pune,Tata,Nexon EV,20,4,4.23,13
+2026-07,15,Pune,Toyota,Innova Hycross,19,5,4.88,11
+2026-07,15,Pune,Maruti Suzuki,Brezza,21,5,5.09,15
+2026-07,15,Pune,Mahindra,Scorpio-N,20,4,4.67,13
+2026-07,15,Hyderabad,Hyundai,Creta,31,7,5.37,20
+2026-07,15,Hyderabad,Tata,Nexon,32,7,5.31,20
+2026-07,15,Hyderabad,Maruti Suzuki,Grand Vitara,27,6,4.96,17
+2026-07,15,Hyderabad,Mahindra,XUV700,25,5,4.72,17
+2026-07,15,Hyderabad,Kia,Seltos,27,6,4.91,18
+2026-07,15,Hyderabad,Honda,City,25,5,4.89,16
+2026-07,15,Hyderabad,Tata,Nexon EV,21,4,4.41,14
+2026-07,15,Hyderabad,Toyota,Innova Hycross,20,4,4.26,14
+2026-07,15,Hyderabad,Maruti Suzuki,Brezza,17,4,4.27,10
+2026-07,15,Hyderabad,Mahindra,Scorpio-N,21,5,4.66,14
+2026-07,15,Chennai,Hyundai,Creta,24,5,5.03,16
+2026-07,15,Chennai,Tata,Nexon,27,6,5,17
+2026-07,15,Chennai,Maruti Suzuki,Grand Vitara,26,5,4.96,17
+2026-07,15,Chennai,Mahindra,XUV700,22,5,5.03,13
+2026-07,15,Chennai,Kia,Seltos,21,4,4.25,12
+2026-07,15,Chennai,Honda,City,23,5,4.56,16
+2026-07,15,Chennai,Tata,Nexon EV,16,4,4.22,11
+2026-07,15,Chennai,Toyota,Innova Hycross,16,4,4.41,10
+2026-07,15,Chennai,Maruti Suzuki,Brezza,16,4,4.58,11
+2026-07,15,Chennai,Mahindra,Scorpio-N,13,3,4.53,8
+2026-08,16,Bengaluru,Hyundai,Creta,41,9,6.2,26
+2026-08,16,Bengaluru,Tata,Nexon,36,8,5.35,24
+2026-08,16,Bengaluru,Maruti Suzuki,Grand Vitara,36,8,5.59,23
+2026-08,16,Bengaluru,Mahindra,XUV700,37,8,5.54,25
+2026-08,16,Bengaluru,Kia,Seltos,33,7,5.51,22
+2026-08,16,Bengaluru,Honda,City,28,6,4.92,18
+2026-08,16,Bengaluru,Tata,Nexon EV,31,7,5.26,18
+2026-08,16,Bengaluru,Toyota,Innova Hycross,27,6,5.2,18
+2026-08,16,Bengaluru,Maruti Suzuki,Brezza,28,6,5.01,19
+2026-08,16,Bengaluru,Mahindra,Scorpio-N,21,5,5.07,15
+2026-08,16,Mumbai,Hyundai,Creta,40,9,5.66,26
+2026-08,16,Mumbai,Tata,Nexon,36,8,5.7,25
+2026-08,16,Mumbai,Maruti Suzuki,Grand Vitara,37,8,5.46,23
+2026-08,16,Mumbai,Mahindra,XUV700,36,8,5.61,25
+2026-08,16,Mumbai,Kia,Seltos,32,8,5.49,22
+2026-08,16,Mumbai,Honda,City,32,7,5.46,19
+2026-08,16,Mumbai,Tata,Nexon EV,27,6,5.04,16
+2026-08,16,Mumbai,Toyota,Innova Hycross,27,6,5.21,18
+2026-08,16,Mumbai,Maruti Suzuki,Brezza,27,6,5.06,16
+2026-08,16,Mumbai,Mahindra,Scorpio-N,27,6,5.13,16
+2026-08,16,Delhi NCR,Hyundai,Creta,44,10,6,26
+2026-08,16,Delhi NCR,Tata,Nexon,41,9,5.68,29
+2026-08,16,Delhi NCR,Maruti Suzuki,Grand Vitara,44,10,6.49,27
+2026-08,16,Delhi NCR,Mahindra,XUV700,38,9,5.78,23
+2026-08,16,Delhi NCR,Kia,Seltos,38,8,5.49,26
+2026-08,16,Delhi NCR,Honda,City,34,8,5.94,20
+2026-08,16,Delhi NCR,Tata,Nexon EV,33,8,5.43,20
+2026-08,16,Delhi NCR,Toyota,Innova Hycross,33,8,5.87,22
+2026-08,16,Delhi NCR,Maruti Suzuki,Brezza,30,7,5.55,20
+2026-08,16,Delhi NCR,Mahindra,Scorpio-N,28,6,4.95,20
+2026-08,16,Pune,Hyundai,Creta,30,6,4.93,20
+2026-08,16,Pune,Tata,Nexon,33,7,5.48,22
+2026-08,16,Pune,Maruti Suzuki,Grand Vitara,32,8,5.82,20
+2026-08,16,Pune,Mahindra,XUV700,28,6,4.88,17
+2026-08,16,Pune,Kia,Seltos,25,6,4.94,16
+2026-08,16,Pune,Honda,City,26,6,4.87,15
+2026-08,16,Pune,Tata,Nexon EV,22,5,4.85,16
+2026-08,16,Pune,Toyota,Innova Hycross,25,6,5.32,16
+2026-08,16,Pune,Maruti Suzuki,Brezza,20,5,4.59,12
+2026-08,16,Pune,Mahindra,Scorpio-N,22,5,4.95,15
+2026-08,16,Hyderabad,Hyundai,Creta,33,7,5.47,22
+2026-08,16,Hyderabad,Tata,Nexon,36,8,5.41,24
+2026-08,16,Hyderabad,Maruti Suzuki,Grand Vitara,29,7,5.12,19
+2026-08,16,Hyderabad,Mahindra,XUV700,32,7,5.4,21
+2026-08,16,Hyderabad,Kia,Seltos,31,7,5.63,19
+2026-08,16,Hyderabad,Honda,City,28,6,5.29,16
+2026-08,16,Hyderabad,Tata,Nexon EV,23,5,4.89,15
+2026-08,16,Hyderabad,Toyota,Innova Hycross,22,5,4.98,14
+2026-08,16,Hyderabad,Maruti Suzuki,Brezza,22,4,4.23,15
+2026-08,16,Hyderabad,Mahindra,Scorpio-N,18,4,4.25,12
+2026-08,16,Chennai,Hyundai,Creta,31,7,5.41,22
+2026-08,16,Chennai,Tata,Nexon,31,8,5.41,21
+2026-08,16,Chennai,Maruti Suzuki,Grand Vitara,30,7,5.58,20
+2026-08,16,Chennai,Mahindra,XUV700,25,6,5.21,17
+2026-08,16,Chennai,Kia,Seltos,27,7,5.46,16
+2026-08,16,Chennai,Honda,City,22,5,4.86,15
+2026-08,16,Chennai,Tata,Nexon EV,19,5,4.61,13
+2026-08,16,Chennai,Toyota,Innova Hycross,19,5,4.97,12
+2026-08,16,Chennai,Maruti Suzuki,Brezza,17,4,4.57,10
+2026-08,16,Chennai,Mahindra,Scorpio-N,19,4,4.81,13
+2026-09,17,Bengaluru,Hyundai,Creta,37,8,5.46,25
+2026-09,17,Bengaluru,Tata,Nexon,39,8,5.52,24
+2026-09,17,Bengaluru,Maruti Suzuki,Grand Vitara,34,7,5.53,21
+2026-09,17,Bengaluru,Mahindra,XUV700,32,7,5.39,19
+2026-09,17,Bengaluru,Kia,Seltos,31,7,5.38,20
+2026-09,17,Bengaluru,Honda,City,32,7,5.14,21
+2026-09,17,Bengaluru,Tata,Nexon EV,29,7,5.09,19
+2026-09,17,Bengaluru,Toyota,Innova Hycross,28,6,5.34,19
+2026-09,17,Bengaluru,Maruti Suzuki,Brezza,27,6,5.01,18
+2026-09,17,Bengaluru,Mahindra,Scorpio-N,25,5,4.83,15
+2026-09,17,Mumbai,Hyundai,Creta,38,8,5.68,27
+2026-09,17,Mumbai,Tata,Nexon,37,8,5.73,22
+2026-09,17,Mumbai,Maruti Suzuki,Grand Vitara,38,9,5.85,22
+2026-09,17,Mumbai,Mahindra,XUV700,35,8,5.82,24
+2026-09,17,Mumbai,Kia,Seltos,36,8,5.75,26
+2026-09,17,Mumbai,Honda,City,33,7,5.18,21
+2026-09,17,Mumbai,Tata,Nexon EV,31,7,5.26,18
+2026-09,17,Mumbai,Toyota,Innova Hycross,25,6,5.35,15
+2026-09,17,Mumbai,Maruti Suzuki,Brezza,27,6,4.82,16
+2026-09,17,Mumbai,Mahindra,Scorpio-N,26,5,4.53,17
+2026-09,17,Delhi NCR,Hyundai,Creta,48,10,6.29,33
+2026-09,17,Delhi NCR,Tata,Nexon,44,10,6.02,28
+2026-09,17,Delhi NCR,Maruti Suzuki,Grand Vitara,43,10,6.17,31
+2026-09,17,Delhi NCR,Mahindra,XUV700,38,8,5.74,26
+2026-09,17,Delhi NCR,Kia,Seltos,37,8,5.85,25
+2026-09,17,Delhi NCR,Honda,City,38,9,6.16,26
+2026-09,17,Delhi NCR,Tata,Nexon EV,32,7,5.07,22
+2026-09,17,Delhi NCR,Toyota,Innova Hycross,34,7,5.29,23
+2026-09,17,Delhi NCR,Maruti Suzuki,Brezza,27,6,5.31,17
+2026-09,17,Delhi NCR,Mahindra,Scorpio-N,28,7,5.33,17
+2026-09,17,Pune,Hyundai,Creta,31,8,5.89,20
+2026-09,17,Pune,Tata,Nexon,31,7,5.44,20
+2026-09,17,Pune,Maruti Suzuki,Grand Vitara,30,7,5.45,19
+2026-09,17,Pune,Mahindra,XUV700,29,6,5.36,18
+2026-09,17,Pune,Kia,Seltos,26,6,5.05,18
+2026-09,17,Pune,Honda,City,28,7,5.36,18
+2026-09,17,Pune,Tata,Nexon EV,27,6,4.84,19
+2026-09,17,Pune,Toyota,Innova Hycross,25,6,5.16,18
+2026-09,17,Pune,Maruti Suzuki,Brezza,21,5,4.75,13
+2026-09,17,Pune,Mahindra,Scorpio-N,22,5,5.04,13
+2026-09,17,Hyderabad,Hyundai,Creta,38,9,6.08,23
+2026-09,17,Hyderabad,Tata,Nexon,35,8,5.84,25
+2026-09,17,Hyderabad,Maruti Suzuki,Grand Vitara,34,8,5.87,22
+2026-09,17,Hyderabad,Mahindra,XUV700,30,7,5.08,21
+2026-09,17,Hyderabad,Kia,Seltos,29,7,5.32,17
+2026-09,17,Hyderabad,Honda,City,24,6,4.84,14
+2026-09,17,Hyderabad,Tata,Nexon EV,24,5,4.92,16
+2026-09,17,Hyderabad,Toyota,Innova Hycross,22,5,4.66,14
+2026-09,17,Hyderabad,Maruti Suzuki,Brezza,21,5,4.81,14
+2026-09,17,Hyderabad,Mahindra,Scorpio-N,22,5,5.03,16
+2026-09,17,Chennai,Hyundai,Creta,31,7,5.22,20
+2026-09,17,Chennai,Tata,Nexon,31,7,5.26,21
+2026-09,17,Chennai,Maruti Suzuki,Grand Vitara,25,6,4.81,15
+2026-09,17,Chennai,Mahindra,XUV700,25,6,4.88,15
+2026-09,17,Chennai,Kia,Seltos,26,6,4.98,19
+2026-09,17,Chennai,Honda,City,25,6,4.88,18
+2026-09,17,Chennai,Tata,Nexon EV,22,5,4.86,13
+2026-09,17,Chennai,Toyota,Innova Hycross,22,5,4.63,14
+2026-09,17,Chennai,Maruti Suzuki,Brezza,22,5,5.05,13
+2026-09,17,Chennai,Mahindra,Scorpio-N,19,5,4.61,13
+2026-10,18,Bengaluru,Hyundai,Creta,54,12,7.03,38
+2026-10,18,Bengaluru,Tata,Nexon,53,12,6.84,38
+2026-10,18,Bengaluru,Maruti Suzuki,Grand Vitara,47,11,6.66,30
+2026-10,18,Bengaluru,Mahindra,XUV700,49,10,6.08,31
+2026-10,18,Bengaluru,Kia,Seltos,43,10,6.43,26
+2026-10,18,Bengaluru,Honda,City,40,9,6.01,27
+2026-10,18,Bengaluru,Tata,Nexon EV,38,9,5.68,26
+2026-10,18,Bengaluru,Toyota,Innova Hycross,35,7,5.62,20
+2026-10,18,Bengaluru,Maruti Suzuki,Brezza,35,8,5.55,21
+2026-10,18,Bengaluru,Mahindra,Scorpio-N,30,7,5.37,19
+2026-10,18,Mumbai,Hyundai,Creta,57,12,6.86,36
+2026-10,18,Mumbai,Tata,Nexon,53,11,6.23,34
+2026-10,18,Mumbai,Maruti Suzuki,Grand Vitara,48,11,6.46,31
+2026-10,18,Mumbai,Mahindra,XUV700,47,11,6.25,34
+2026-10,18,Mumbai,Kia,Seltos,44,10,6.06,31
+2026-10,18,Mumbai,Honda,City,44,10,6,26
+2026-10,18,Mumbai,Tata,Nexon EV,43,9,6.04,28
+2026-10,18,Mumbai,Toyota,Innova Hycross,37,8,5.72,25
+2026-10,18,Mumbai,Maruti Suzuki,Brezza,38,8,5.43,25
+2026-10,18,Mumbai,Mahindra,Scorpio-N,35,8,5.6,25
+2026-10,18,Delhi NCR,Hyundai,Creta,63,14,7.26,43
+2026-10,18,Delhi NCR,Tata,Nexon,60,13,7.19,37
+2026-10,18,Delhi NCR,Maruti Suzuki,Grand Vitara,55,12,6.93,33
+2026-10,18,Delhi NCR,Mahindra,XUV700,52,12,6.79,31
+2026-10,18,Delhi NCR,Kia,Seltos,48,11,6.43,30
+2026-10,18,Delhi NCR,Honda,City,50,11,6.54,32
+2026-10,18,Delhi NCR,Tata,Nexon EV,48,10,6.04,31
+2026-10,18,Delhi NCR,Toyota,Innova Hycross,42,9,6.18,25
+2026-10,18,Delhi NCR,Maruti Suzuki,Brezza,39,9,5.8,25
+2026-10,18,Delhi NCR,Mahindra,Scorpio-N,35,8,5.4,21
+2026-10,18,Pune,Hyundai,Creta,47,10,6.12,33
+2026-10,18,Pune,Tata,Nexon,42,10,5.95,27
+2026-10,18,Pune,Maruti Suzuki,Grand Vitara,43,10,6.05,30
+2026-10,18,Pune,Mahindra,XUV700,40,10,5.91,26
+2026-10,18,Pune,Kia,Seltos,37,8,5.69,24
+2026-10,18,Pune,Honda,City,36,9,5.67,23
+2026-10,18,Pune,Tata,Nexon EV,33,8,5.42,22
+2026-10,18,Pune,Toyota,Innova Hycross,28,6,5.07,16
+2026-10,18,Pune,Maruti Suzuki,Brezza,30,7,5.43,21
+2026-10,18,Pune,Mahindra,Scorpio-N,27,6,4.9,17
+2026-10,18,Hyderabad,Hyundai,Creta,45,10,6.15,26
+2026-10,18,Hyderabad,Tata,Nexon,45,11,6.36,32
+2026-10,18,Hyderabad,Maruti Suzuki,Grand Vitara,45,11,6.58,28
+2026-10,18,Hyderabad,Mahindra,XUV700,39,9,5.85,28
+2026-10,18,Hyderabad,Kia,Seltos,37,8,5.35,26
+2026-10,18,Hyderabad,Honda,City,37,8,5.87,23
+2026-10,18,Hyderabad,Tata,Nexon EV,36,8,5.69,22
+2026-10,18,Hyderabad,Toyota,Innova Hycross,34,8,5.82,24
+2026-10,18,Hyderabad,Maruti Suzuki,Brezza,27,6,4.83,18
+2026-10,18,Hyderabad,Mahindra,Scorpio-N,30,7,5.47,20
+2026-10,18,Chennai,Hyundai,Creta,37,8,5.39,22
+2026-10,18,Chennai,Tata,Nexon,36,8,5.46,25
+2026-10,18,Chennai,Maruti Suzuki,Grand Vitara,35,8,5.43,24
+2026-10,18,Chennai,Mahindra,XUV700,34,8,5.59,23
+2026-10,18,Chennai,Kia,Seltos,34,8,5.83,24
+2026-10,18,Chennai,Honda,City,28,6,4.83,18
+2026-10,18,Chennai,Tata,Nexon EV,32,7,5.4,19
+2026-10,18,Chennai,Toyota,Innova Hycross,31,7,5.4,20
+2026-10,18,Chennai,Maruti Suzuki,Brezza,29,7,5.32,21
+2026-10,18,Chennai,Mahindra,Scorpio-N,25,6,5.25,16

@@ -1,0 +1,361 @@
+brand,model,variant,segment,year,fuel_type,transmission,mileage_kmpl,km_driven,city,ex_showroom_lakh,market_price_lakh
+Hyundai,Creta,SX(O),Mid-Size SUV,2024,Petrol,Manual,17.7,26398,Delhi NCR,20.15,17.41
+Tata,Nexon,Creative,Compact SUV,2020,Petrol,DCT,19.1,74070,Ahmedabad,14.67,7.11
+Maruti Suzuki,Grand Vitara,Sigma,Mid-Size SUV,2023,Hybrid,Manual,28.2,33433,Chennai,13.09,9.91
+Mahindra,XUV700,AX5,Premium MPV,2024,Petrol,Manual,14.9,24580,Mumbai,21.66,18.86
+Kia,Seltos,GTX+,Mid-Size SUV,2021,Petrol,AT,16.7,49014,Chennai,21.50,12.46
+Honda,City,V,Executive Sedan,2021,Petrol,Manual,19.4,68869,Bengaluru,14.73,8.91
+Tata,Nexon EV,Empowered+,Electric SUV,2021,Electric,AT,36.8,46974,Chennai,18.14,10.54
+Toyota,Innova Hycross,VX,Premium MPV,2024,Petrol,CVT,20.4,20763,Delhi NCR,24.66,21.43
+Maruti Suzuki,Brezza,VXi,Compact SUV,2020,Petrol,Manual,20.4,71249,Chennai,10.27,5.23
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2026,Petrol,Manual,14.5,144,Mumbai,13.85,15.48
+Skoda,Slavia,Classic,Executive Sedan,2024,Petrol,AT,18.2,27723,Pune,11.84,10.20
+MG,ZS EV,Essence,Electric SUV,2026,Electric,AT,40.3,912,Mumbai,26.59,30.41
+Hyundai,Creta,EX,Mid-Size SUV,2021,Petrol,Manual,18.4,50576,Mumbai,11.10,6.61
+Tata,Nexon,Creative,Compact SUV,2026,Petrol,Manual,18.9,585,Delhi NCR,13.12,14.24
+Maruti Suzuki,Grand Vitara,Zeta,Mid-Size SUV,2025,Petrol,CVT,23.6,12536,Mumbai,18.10,18.10
+Mahindra,XUV700,AX7L,Premium MPV,2022,Diesel,AT,16.5,46747,Pune,27.99,18.75
+Kia,Seltos,HTX,Mid-Size SUV,2020,Diesel,DCT,20.3,48581,Bengaluru,20.10,10.77
+Honda,City,VX,Executive Sedan,2024,Hybrid,CVT,23.4,15631,Delhi NCR,20.89,17.92
+Tata,Nexon EV,Creative+,Electric SUV,2022,Electric,AT,37.5,34681,Hyderabad,13.64,9.32
+Toyota,Innova Hycross,ZX,Premium MPV,2020,Hybrid,AT,24.7,73179,Chennai,30.49,15.83
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2025,Petrol,AT,18.2,9597,Mumbai,15.29,15.44
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2020,Petrol,Manual,15.4,81908,Hyderabad,20.98,11.02
+Skoda,Slavia,Classic,Executive Sedan,2021,Petrol,DCT,18.4,38887,Chennai,12.24,7.30
+MG,ZS EV,Excite Pro,Electric SUV,2024,Electric,AT,40.4,18644,Bengaluru,22.28,20.82
+Hyundai,Creta,S(O),Mid-Size SUV,2021,Diesel,Manual,20,52820,Hyderabad,15.47,9.37
+Tata,Nexon,Fearless,Compact SUV,2025,Petrol,AMT,18.7,9488,Hyderabad,15.60,15.60
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2024,Hybrid,CVT,27.4,23200,Pune,23.18,20.11
+Mahindra,XUV700,AX3,Premium MPV,2023,Petrol,Manual,14.4,37630,Ahmedabad,17.82,13.25
+Kia,Seltos,HTE,Mid-Size SUV,2026,Petrol,Manual,17.3,20,Hyderabad,10.90,12.60
+Honda,City,V,Executive Sedan,2025,Petrol,Manual,19,11119,Hyderabad,14.73,15.00
+Tata,Nexon EV,Empowered+,Electric SUV,2024,Electric,AT,37,19353,Delhi NCR,18.14,15.63
+Toyota,Innova Hycross,ZX,Premium MPV,2024,Hybrid,AT,23.9,23712,Hyderabad,30.49,27.67
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2025,Petrol,Manual,19.5,9567,Hyderabad,14.14,14.62
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2025,Diesel,Manual,16.8,12596,Pune,25.89,25.61
+Skoda,Slavia,Classic,Executive Sedan,2021,Petrol,DCT,18.3,49577,Mumbai,12.24,7.33
+MG,ZS EV,Essence,Electric SUV,2021,Electric,AT,40.5,59978,Ahmedabad,26.59,14.88
+Hyundai,Creta,SX(O),Mid-Size SUV,2025,Diesel,DCT,20.4,11563,Chennai,23.05,23.51
+Tata,Nexon,Smart,Compact SUV,2023,CNG,DCT,23.8,34416,Ahmedabad,10.60,7.75
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2025,CNG,CVT,29,10309,Chennai,21.98,21.90
+Mahindra,XUV700,AX5,Premium MPV,2020,Diesel,AT,16.2,59482,Delhi NCR,24.16,11.83
+Kia,Seltos,GTX+,Mid-Size SUV,2021,Diesel,Manual,20.7,42371,Hyderabad,21.70,13.35
+Honda,City,ZX,Executive Sedan,2020,Hybrid,Manual,23.1,46838,Mumbai,22.65,12.13
+Tata,Nexon EV,Fearless+,Electric SUV,2025,Electric,AT,37,10969,Ahmedabad,15.89,15.34
+Toyota,Innova Hycross,ZX,Premium MPV,2022,Petrol,CVT,20.5,39373,Bengaluru,28.39,19.95
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2026,CNG,AT,24.1,650,Delhi NCR,14.26,15.80
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2023,Petrol,Manual,14.4,24247,Ahmedabad,24.54,18.51
+Skoda,Slavia,Signature,Executive Sedan,2024,Petrol,DCT,18.5,17647,Bengaluru,14.91,13.40
+MG,ZS EV,Exclusive+,Electric SUV,2024,Electric,AT,39.7,25402,Ahmedabad,24.44,20.12
+Hyundai,Creta,S(O),Mid-Size SUV,2026,Petrol,Manual,18.1,566,Bengaluru,14.12,16.60
+Tata,Nexon,Smart,Compact SUV,2024,Diesel,Manual,21.1,18466,Chennai,9.50,8.23
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2025,CNG,AT,26.9,13633,Pune,16.02,15.98
+Mahindra,XUV700,MX,Premium MPV,2023,Diesel,AT,16.3,28135,Delhi NCR,16.49,12.62
+Kia,Seltos,HTK+,Mid-Size SUV,2025,Petrol,DCT,17.1,9867,Mumbai,15.60,15.49
+Honda,City,SV,Executive Sedan,2021,Hybrid,Manual,23.1,58430,Bengaluru,13.92,8.31
+Tata,Nexon EV,Fearless+,Electric SUV,2023,Electric,AT,37.2,26969,Mumbai,15.89,12.50
+Toyota,Innova Hycross,GX,Premium MPV,2020,Petrol,CVT,21.2,67187,Bengaluru,20.92,11.26
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2024,Petrol,AT,18.9,20763,Mumbai,13.36,11.77
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2022,Diesel,Manual,17.2,54191,Bengaluru,22.33,15.54
+Skoda,Slavia,Monte Carlo,Executive Sedan,2024,Petrol,DCT,18.6,15131,Pune,17.57,15.77
+MG,ZS EV,Essence,Electric SUV,2023,Electric,AT,39.7,37074,Chennai,26.59,20.04
+Hyundai,Creta,SX(O),Mid-Size SUV,2025,Petrol,AT,16.7,11919,Delhi NCR,21.30,20.48
+Tata,Nexon,Creative,Compact SUV,2021,CNG,AMT,24.2,46092,Chennai,14.02,8.21
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2025,CNG,Manual,28.4,12969,Bengaluru,14.87,15.26
+Mahindra,XUV700,MX,Premium MPV,2020,Petrol,Manual,14.6,77241,Delhi NCR,13.99,7.06
+Kia,Seltos,GTX+,Mid-Size SUV,2023,Diesel,DCT,19.9,32891,Delhi NCR,23.25,17.31
+Honda,City,VX,Executive Sedan,2024,Hybrid,Manual,24.2,15038,Hyderabad,19.74,18.10
+Tata,Nexon EV,Empowered+,Electric SUV,2020,Electric,AT,36.8,65452,Mumbai,18.14,9.10
+Toyota,Innova Hycross,ZX,Premium MPV,2021,Petrol,AT,19.6,45469,Chennai,28.39,16.97
+Maruti Suzuki,Brezza,VXi,Compact SUV,2022,Petrol,AT,18.1,47915,Hyderabad,11.42,7.89
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2025,Petrol,AT,13.3,8142,Chennai,15.00,15.28
+Skoda,Slavia,Classic,Executive Sedan,2020,Petrol,AT,17,73574,Mumbai,11.84,5.95
+MG,ZS EV,Executive,Electric SUV,2026,Electric,AT,39.8,821,Chennai,20.13,22.67
+Hyundai,Creta,SX,Mid-Size SUV,2020,Diesel,Manual,19.9,77703,Bengaluru,18.48,9.95
+Tata,Nexon,Pure,Compact SUV,2022,Diesel,AMT,21.5,42945,Bengaluru,11.98,8.20
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2026,Hybrid,AT,26.2,1096,Mumbai,17.22,19.97
+Mahindra,XUV700,AX3,Premium MPV,2023,Diesel,Manual,16.2,32762,Mumbai,19.17,15.13
+Kia,Seltos,HTE,Mid-Size SUV,2025,Diesel,DCT,20.1,13408,Chennai,13.80,13.53
+Honda,City,SV,Executive Sedan,2021,Petrol,CVT,19.2,67367,Mumbai,12.97,7.46
+Tata,Nexon EV,Empowered+,Electric SUV,2023,Electric,AT,36.9,35871,Pune,18.14,13.81
+Toyota,Innova Hycross,VX,Premium MPV,2024,Petrol,AT,20.1,21303,Ahmedabad,24.66,20.91
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2025,CNG,Manual,25.1,12198,Bengaluru,13.11,13.75
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2021,Diesel,Manual,17,41426,Pune,22.33,13.02
+Skoda,Slavia,Prestige,Executive Sedan,2024,Petrol,Manual,18.5,15363,Mumbai,18.69,16.77
+MG,ZS EV,Excite Pro,Electric SUV,2023,Electric,AT,39.7,35309,Mumbai,22.28,17.34
+Hyundai,Creta,SX(O),Mid-Size SUV,2023,Diesel,DCT,20.7,37444,Pune,23.05,17.94
+Tata,Nexon,Smart,Compact SUV,2021,Diesel,Manual,20.7,68415,Mumbai,9.50,5.49
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2023,Hybrid,AT,26.3,40236,Pune,23.18,17.65
+Mahindra,XUV700,AX7L,Premium MPV,2024,Diesel,AT,16.2,22866,Ahmedabad,27.99,23.25
+Kia,Seltos,HTX,Mid-Size SUV,2024,Petrol,DCT,18.3,27845,Chennai,18.75,16.79
+Honda,City,ZX,Executive Sedan,2025,Hybrid,Manual,23,12673,Pune,22.65,22.69
+Tata,Nexon EV,Fearless+,Electric SUV,2026,Electric,AT,36.8,362,Ahmedabad,15.89,16.92
+Toyota,Innova Hycross,ZX(O),Premium MPV,2021,Petrol,CVT,20.8,43213,Hyderabad,32.13,19.16
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2021,CNG,AT,23.7,59252,Ahmedabad,16.19,8.77
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2021,Petrol,AT,13,57411,Mumbai,25.69,14.74
+Skoda,Slavia,Classic,Executive Sedan,2025,Petrol,Manual,18.8,11557,Ahmedabad,10.69,10.33
+MG,ZS EV,Excite Pro,Electric SUV,2020,Electric,AT,40,83513,Ahmedabad,22.28,10.79
+Hyundai,Creta,SX,Mid-Size SUV,2026,Diesel,AT,19.1,284,Hyderabad,19.63,22.21
+Tata,Nexon,Smart,Compact SUV,2023,Diesel,AMT,21,23543,Chennai,9.50,7.60
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2021,CNG,Manual,28.5,49745,Pune,14.87,8.69
+Mahindra,XUV700,AX5,Premium MPV,2026,Diesel,AT,15.7,591,Pune,24.16,26.96
+Kia,Seltos,HTX,Mid-Size SUV,2025,Petrol,DCT,17.8,11343,Pune,18.75,18.46
+Honda,City,SV,Executive Sedan,2026,Petrol,CVT,19.1,962,Ahmedabad,12.97,14.07
+Tata,Nexon EV,Empowered+,Electric SUV,2025,Electric,AT,37.2,12159,Bengaluru,18.14,18.62
+Toyota,Innova Hycross,GX,Premium MPV,2025,Petrol,CVT,21.2,13733,Mumbai,20.92,20.79
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2021,CNG,Manual,24.4,47317,Chennai,13.11,7.86
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2022,Diesel,AT,16,54785,Hyderabad,23.48,15.79
+Skoda,Slavia,Monte Carlo,Executive Sedan,2026,Petrol,DCT,18.9,572,Chennai,17.57,20.22
+MG,ZS EV,Excite Pro,Electric SUV,2020,Electric,AT,40.5,48704,Ahmedabad,22.28,10.93
+Hyundai,Creta,EX,Mid-Size SUV,2022,Petrol,AT,16.3,38072,Bengaluru,12.25,8.44
+Tata,Nexon,Pure,Compact SUV,2022,CNG,DCT,24.1,32512,Hyderabad,13.08,8.97
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2026,Hybrid,Manual,27.7,1085,Delhi NCR,16.07,17.89
+Mahindra,XUV700,AX5,Premium MPV,2025,Petrol,Manual,15.1,10231,Mumbai,21.66,21.79
+Kia,Seltos,GTX+,Mid-Size SUV,2026,Diesel,AT,19.1,213,Bengaluru,22.85,26.49
+Honda,City,ZX,Executive Sedan,2025,Petrol,CVT,19.3,11917,Pune,21.70,21.16
+Tata,Nexon EV,Creative+,Electric SUV,2021,Electric,AT,37.5,61964,Mumbai,13.64,8.03
+Toyota,Innova Hycross,ZX(O),Premium MPV,2026,Hybrid,CVT,25.8,915,Delhi NCR,34.23,37.77
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2022,Petrol,AT,19.1,37724,Mumbai,15.29,10.39
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2020,Petrol,AT,13.8,81311,Delhi NCR,15.00,7.29
+Skoda,Slavia,Signature,Executive Sedan,2021,Petrol,AT,17.6,39731,Bengaluru,14.51,9.10
+MG,ZS EV,Essence,Electric SUV,2025,Electric,AT,40.4,11045,Hyderabad,26.59,26.66
+Hyundai,Creta,S(O),Mid-Size SUV,2022,Petrol,AT,16.8,37019,Bengaluru,15.27,10.94
+Tata,Nexon,Pure,Compact SUV,2024,Diesel,DCT,20.6,21706,Mumbai,13.53,11.95
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2020,Petrol,AT,22.7,69214,Chennai,15.12,7.71
+Mahindra,XUV700,AX5,Premium MPV,2022,Petrol,Manual,14.9,49447,Ahmedabad,21.66,14.03
+Kia,Seltos,GTX+,Mid-Size SUV,2022,Diesel,DCT,19.6,48951,Chennai,23.25,15.44
+Honda,City,ZX,Executive Sedan,2022,Hybrid,CVT,23.7,50750,Bengaluru,23.80,16.79
+Tata,Nexon EV,Empowered+,Electric SUV,2024,Electric,AT,37.6,19729,Delhi NCR,18.14,15.69
+Toyota,Innova Hycross,ZX,Premium MPV,2021,Petrol,AT,20.5,44866,Mumbai,28.39,16.65
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2022,Petrol,Manual,19.3,44927,Pune,12.21,8.18
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2020,Diesel,Manual,17.1,68135,Hyderabad,25.89,13.14
+Skoda,Slavia,Monte Carlo,Executive Sedan,2021,Petrol,DCT,18.7,50996,Delhi NCR,17.57,9.90
+MG,ZS EV,Excite Pro,Electric SUV,2021,Electric,AT,39.2,48106,Hyderabad,22.28,13.44
+Hyundai,Creta,SX(O),Mid-Size SUV,2025,Diesel,AT,18.9,9022,Delhi NCR,22.65,21.96
+Tata,Nexon,Fearless,Compact SUV,2020,Diesel,AMT,21.4,58269,Hyderabad,16.95,8.66
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2020,Petrol,AT,21.7,64809,Chennai,21.08,10.93
+Mahindra,XUV700,MX,Premium MPV,2023,Diesel,Manual,17.3,37173,Bengaluru,15.34,12.19
+Kia,Seltos,HTX,Mid-Size SUV,2026,Petrol,DCT,17.5,221,Ahmedabad,18.75,20.60
+Honda,City,SV,Executive Sedan,2022,Hybrid,CVT,23.7,36536,Mumbai,15.07,10.19
+Tata,Nexon EV,Creative+,Electric SUV,2026,Electric,AT,37,623,Pune,13.64,15.33
+Toyota,Innova Hycross,GX,Premium MPV,2023,Hybrid,AT,24.2,26371,Ahmedabad,23.02,17.10
+Maruti Suzuki,Brezza,VXi,Compact SUV,2020,Petrol,Manual,19.4,57200,Ahmedabad,10.27,4.96
+Mahindra,Scorpio-N,Z4,Mid-Size SUV,2025,Diesel,Manual,17.4,10145,Delhi NCR,18.76,18.31
+Skoda,Slavia,Prestige,Executive Sedan,2023,Petrol,DCT,18.1,37346,Chennai,20.24,15.62
+MG,ZS EV,Excite Pro,Electric SUV,2025,Electric,AT,39.4,7872,Bengaluru,22.28,23.39
+Hyundai,Creta,S(O),Mid-Size SUV,2024,Diesel,DCT,20,26727,Chennai,17.02,14.88
+Tata,Nexon,Pure,Compact SUV,2024,CNG,Manual,24.1,26613,Delhi NCR,11.53,9.64
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2021,CNG,AT,27,55617,Delhi NCR,21.98,12.37
+Mahindra,XUV700,AX5,Premium MPV,2023,Petrol,AT,13.4,40242,Bengaluru,22.81,17.76
+Kia,Seltos,HTX,Mid-Size SUV,2026,Petrol,AT,16.3,485,Pune,18.35,21.05
+Honda,City,VX,Executive Sedan,2026,Petrol,Manual,18.5,54,Chennai,17.64,20.35
+Tata,Nexon EV,Fearless+,Electric SUV,2025,Electric,AT,37.6,10638,Chennai,15.89,16.14
+Toyota,Innova Hycross,ZX(O),Premium MPV,2024,Hybrid,AT,23.8,17815,Bengaluru,34.23,31.03
+Maruti Suzuki,Brezza,LXi,Compact SUV,2023,Petrol,AT,18.2,37613,Hyderabad,9.49,7.46
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2024,Diesel,Manual,16.5,20421,Pune,15.20,13.48
+Skoda,Slavia,Classic,Executive Sedan,2026,Petrol,Manual,18.8,364,Pune,10.69,12.27
+MG,ZS EV,Excite Pro,Electric SUV,2023,Electric,AT,40,37470,Mumbai,22.28,16.89
+Hyundai,Creta,S(O),Mid-Size SUV,2024,Diesel,AT,18.6,20659,Ahmedabad,16.62,13.90
+Tata,Nexon,Pure,Compact SUV,2022,CNG,DCT,23.2,40336,Mumbai,13.08,9.06
+Maruti Suzuki,Grand Vitara,Zeta,Mid-Size SUV,2020,CNG,AT,27.7,71271,Delhi NCR,19.00,9.40
+Mahindra,XUV700,MX,Premium MPV,2022,Petrol,AT,13,40440,Mumbai,15.14,10.48
+Kia,Seltos,HTK+,Mid-Size SUV,2022,Diesel,DCT,20.3,44863,Bengaluru,16.95,11.78
+Honda,City,V,Executive Sedan,2026,Hybrid,Manual,23.9,908,Delhi NCR,16.83,18.50
+Tata,Nexon EV,Fearless+,Electric SUV,2023,Electric,AT,36.6,23587,Pune,15.89,12.37
+Toyota,Innova Hycross,ZX(O),Premium MPV,2025,Petrol,CVT,20.5,13080,Bengaluru,32.13,32.86
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2026,CNG,Manual,24.7,44,Mumbai,13.11,15.04
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2024,Petrol,Manual,14.9,23818,Hyderabad,13.85,12.51
+Skoda,Slavia,Prestige,Executive Sedan,2026,Petrol,AT,17.2,696,Bengaluru,19.84,23.12
+MG,ZS EV,Executive,Electric SUV,2020,Electric,AT,40.5,59241,Delhi NCR,20.13,10.05
+Hyundai,Creta,SX(O),Mid-Size SUV,2020,Diesel,DCT,20.4,48238,Hyderabad,23.05,12.41
+Tata,Nexon,Pure,Compact SUV,2024,Petrol,Manual,18.7,25755,Mumbai,10.63,9.29
+Maruti Suzuki,Grand Vitara,Sigma,Mid-Size SUV,2026,Petrol,Manual,23.5,915,Mumbai,10.99,12.39
+Mahindra,XUV700,MX,Premium MPV,2020,Diesel,Manual,17.2,75337,Chennai,15.34,8.04
+Kia,Seltos,HTE,Mid-Size SUV,2023,Petrol,AT,17,38220,Pune,12.05,9.07
+Honda,City,ZX,Executive Sedan,2022,Hybrid,CVT,23.3,30734,Delhi NCR,23.80,16.08
+Tata,Nexon EV,Creative+,Electric SUV,2025,Electric,AT,37,12019,Mumbai,13.64,13.55
+Toyota,Innova Hycross,ZX(O),Premium MPV,2021,Petrol,CVT,21.4,69971,Delhi NCR,32.13,17.96
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2025,Petrol,AT,18.9,10633,Hyderabad,13.36,13.65
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2021,Petrol,AT,14.3,43750,Delhi NCR,15.00,8.53
+Skoda,Slavia,Monte Carlo,Executive Sedan,2020,Petrol,DCT,18.7,60010,Chennai,17.57,9.04
+MG,ZS EV,Essence,Electric SUV,2024,Electric,AT,39.3,21224,Delhi NCR,26.59,22.33
+Hyundai,Creta,SX,Mid-Size SUV,2020,Diesel,AT,19,70095,Hyderabad,19.63,10.30
+Tata,Nexon,Creative,Compact SUV,2020,CNG,AMT,23.7,63953,Hyderabad,14.02,7.36
+Maruti Suzuki,Grand Vitara,Sigma,Mid-Size SUV,2026,Petrol,CVT,23.4,343,Chennai,12.14,14.05
+Mahindra,XUV700,AX5,Premium MPV,2022,Petrol,Manual,14.7,51561,Hyderabad,21.66,14.33
+Kia,Seltos,HTX,Mid-Size SUV,2020,Diesel,Manual,19.9,82139,Mumbai,18.55,9.54
+Honda,City,SV,Executive Sedan,2024,Petrol,CVT,19.8,21068,Pune,12.97,11.25
+Tata,Nexon EV,Fearless+,Electric SUV,2025,Electric,AT,37.1,11261,Ahmedabad,15.89,15.42
+Toyota,Innova Hycross,ZX,Premium MPV,2023,Petrol,CVT,20.9,29891,Hyderabad,28.39,22.07
+Maruti Suzuki,Brezza,VXi,Compact SUV,2023,CNG,Manual,24.8,31611,Mumbai,11.17,8.54
+Mahindra,Scorpio-N,Z4,Mid-Size SUV,2022,Petrol,Manual,14.3,38808,Pune,17.41,11.91
+Skoda,Slavia,Monte Carlo,Executive Sedan,2024,Petrol,DCT,18.6,27201,Mumbai,17.57,15.43
+MG,ZS EV,Executive,Electric SUV,2024,Electric,AT,39.7,21318,Delhi NCR,20.13,17.08
+Hyundai,Creta,SX(O),Mid-Size SUV,2025,Diesel,Manual,20.8,11740,Chennai,21.50,21.81
+Tata,Nexon,Smart,Compact SUV,2021,Diesel,DCT,21.3,47916,Mumbai,11.05,6.46
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2021,Hybrid,AT,26.6,56873,Mumbai,23.18,13.58
+Mahindra,XUV700,MX,Premium MPV,2023,Diesel,Manual,17.5,23302,Mumbai,15.34,12.23
+Kia,Seltos,HTE,Mid-Size SUV,2020,Petrol,AT,15.9,82261,Mumbai,12.05,6.13
+Honda,City,VX,Executive Sedan,2020,Petrol,Manual,18.9,80785,Delhi NCR,17.64,8.85
+Tata,Nexon EV,Empowered+,Electric SUV,2025,Electric,AT,36.4,13605,Hyderabad,18.14,18.26
+Toyota,Innova Hycross,ZX,Premium MPV,2026,Petrol,CVT,20.7,77,Chennai,28.39,31.77
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2020,CNG,Manual,24.6,68483,Hyderabad,15.04,7.87
+Mahindra,Scorpio-N,Z4,Mid-Size SUV,2020,Diesel,AT,15.7,50264,Ahmedabad,19.91,9.73
+Skoda,Slavia,Classic,Executive Sedan,2022,Petrol,DCT,18.5,31288,Ahmedabad,12.24,8.08
+MG,ZS EV,Excite Pro,Electric SUV,2021,Electric,AT,40,66309,Chennai,22.28,12.85
+Hyundai,Creta,S(O),Mid-Size SUV,2025,Petrol,AT,17.2,13164,Delhi NCR,15.27,14.75
+Tata,Nexon,Creative,Compact SUV,2026,CNG,DCT,23.5,57,Ahmedabad,15.57,16.51
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2026,CNG,CVT,29,722,Bengaluru,21.98,25.40
+Mahindra,XUV700,AX5,Premium MPV,2024,Diesel,Manual,17.4,25083,Ahmedabad,23.01,19.29
+Kia,Seltos,HTX,Mid-Size SUV,2020,Diesel,AT,19.3,67075,Bengaluru,19.70,10.48
+Honda,City,VX,Executive Sedan,2022,Petrol,Manual,18.7,41617,Pune,17.64,12.10
+Tata,Nexon EV,Fearless+,Electric SUV,2025,Electric,AT,37.2,9187,Chennai,15.89,15.89
+Toyota,Innova Hycross,ZX,Premium MPV,2024,Hybrid,CVT,26.1,19793,Ahmedabad,30.49,25.47
+Maruti Suzuki,Brezza,LXi,Compact SUV,2025,CNG,Manual,25.2,10927,Chennai,9.24,9.25
+Mahindra,Scorpio-N,Z4,Mid-Size SUV,2021,Petrol,AT,14.3,54975,Ahmedabad,18.56,10.25
+Skoda,Slavia,Classic,Executive Sedan,2020,Petrol,AT,17.8,71022,Hyderabad,11.84,6.10
+MG,ZS EV,Exclusive+,Electric SUV,2024,Electric,AT,40.3,24231,Ahmedabad,24.44,20.39
+Hyundai,Creta,S(O),Mid-Size SUV,2023,Petrol,Manual,18.4,41488,Pune,14.12,10.69
+Tata,Nexon,Fearless,Compact SUV,2026,Diesel,AMT,20.3,739,Hyderabad,16.95,19.16
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2026,Hybrid,CVT,28.3,884,Delhi NCR,17.22,18.73
+Mahindra,XUV700,AX3,Premium MPV,2021,Diesel,Manual,16.6,50824,Pune,19.17,11.12
+Kia,Seltos,HTX,Mid-Size SUV,2023,Diesel,DCT,19.8,32670,Bengaluru,20.10,16.22
+Honda,City,ZX,Executive Sedan,2021,Hybrid,CVT,23.1,59518,Hyderabad,23.80,13.90
+Tata,Nexon EV,Fearless+,Electric SUV,2026,Electric,AT,36.7,39,Chennai,15.89,17.72
+Toyota,Innova Hycross,ZX(O),Premium MPV,2020,Hybrid,CVT,25.2,45593,Mumbai,34.23,18.34
+Maruti Suzuki,Brezza,VXi,Compact SUV,2020,CNG,Manual,25.6,59153,Ahmedabad,11.17,5.39
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2024,Petrol,Manual,14.9,24738,Ahmedabad,20.98,17.19
+Skoda,Slavia,Monte Carlo,Executive Sedan,2021,Petrol,Manual,18.7,55336,Chennai,16.02,9.30
+MG,ZS EV,Executive,Electric SUV,2024,Electric,AT,40.6,18003,Ahmedabad,20.13,17.24
+Hyundai,Creta,SX(O),Mid-Size SUV,2023,Diesel,DCT,20.2,24228,Bengaluru,23.05,18.82
+Tata,Nexon,Fearless,Compact SUV,2023,Diesel,DCT,20.4,40288,Pune,18.50,14.07
+Maruti Suzuki,Grand Vitara,Sigma,Mid-Size SUV,2025,Petrol,AT,21.8,10609,Pune,12.14,12.33
+Mahindra,XUV700,AX7L,Premium MPV,2026,Petrol,AT,12.9,991,Pune,26.64,29.85
+Kia,Seltos,HTE,Mid-Size SUV,2026,Diesel,AT,18.7,1053,Bengaluru,13.40,15.78
+Honda,City,V,Executive Sedan,2021,Hybrid,Manual,23.4,60941,Chennai,16.83,9.81
+Tata,Nexon EV,Fearless+,Electric SUV,2026,Electric,AT,37,595,Pune,15.89,17.57
+Toyota,Innova Hycross,GX,Premium MPV,2021,Hybrid,AT,24.6,68870,Pune,23.02,13.13
+Maruti Suzuki,Brezza,VXi,Compact SUV,2022,CNG,AT,23.9,30755,Chennai,12.32,8.48
+Mahindra,Scorpio-N,Z4,Mid-Size SUV,2021,Diesel,AT,15.7,55789,Ahmedabad,19.91,11.19
+Skoda,Slavia,Classic,Executive Sedan,2022,Petrol,AT,18,35561,Hyderabad,11.84,8.28
+MG,ZS EV,Exclusive+,Electric SUV,2021,Electric,AT,39.7,59742,Chennai,24.44,14.08
+Hyundai,Creta,EX,Mid-Size SUV,2025,Diesel,Manual,19.8,10771,Ahmedabad,12.45,11.93
+Tata,Nexon,Smart,Compact SUV,2020,CNG,Manual,23.6,47632,Pune,9.05,4.66
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2025,CNG,AT,28,11716,Ahmedabad,16.02,15.04
+Mahindra,XUV700,AX7L,Premium MPV,2023,Petrol,Manual,13.8,41247,Ahmedabad,25.49,18.43
+Kia,Seltos,HTE,Mid-Size SUV,2021,Diesel,Manual,19.5,37566,Delhi NCR,12.25,7.03
+Honda,City,SV,Executive Sedan,2021,Hybrid,CVT,23,50615,Chennai,15.07,9.01
+Tata,Nexon EV,Creative+,Electric SUV,2024,Electric,AT,36.7,27678,Delhi NCR,13.64,11.39
+Toyota,Innova Hycross,ZX,Premium MPV,2026,Hybrid,AT,23.9,100,Chennai,30.49,35.49
+Maruti Suzuki,Brezza,LXi,Compact SUV,2024,Petrol,AT,18.3,21690,Delhi NCR,9.49,8.20
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2023,Petrol,Manual,14.1,38904,Hyderabad,24.54,18.64
+Skoda,Slavia,Classic,Executive Sedan,2022,Petrol,AT,17.2,48990,Chennai,11.84,7.80
+MG,ZS EV,Essence,Electric SUV,2024,Electric,AT,39.3,15326,Bengaluru,26.59,24.69
+Hyundai,Creta,SX(O),Mid-Size SUV,2026,Diesel,DCT,19.5,962,Ahmedabad,23.05,25.40
+Tata,Nexon,Smart,Compact SUV,2020,Petrol,Manual,19.1,76299,Delhi NCR,8.15,3.98
+Maruti Suzuki,Grand Vitara,Zeta,Mid-Size SUV,2022,CNG,Manual,29.2,34124,Ahmedabad,17.85,11.66
+Mahindra,XUV700,AX7L,Premium MPV,2023,Diesel,Manual,17.6,28960,Mumbai,26.84,20.79
+Kia,Seltos,GTX+,Mid-Size SUV,2020,Diesel,AT,19.2,77410,Hyderabad,22.85,11.92
+Honda,City,SV,Executive Sedan,2020,Petrol,CVT,19.5,53508,Bengaluru,12.97,6.92
+Tata,Nexon EV,Creative+,Electric SUV,2021,Electric,AT,36.7,50545,Ahmedabad,13.64,7.72
+Toyota,Innova Hycross,GX,Premium MPV,2024,Hybrid,CVT,25.1,20591,Delhi NCR,23.02,19.67
+Maruti Suzuki,Brezza,LXi,Compact SUV,2023,CNG,AT,23.4,39766,Chennai,10.39,8.06
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2026,Diesel,AT,16.3,527,Delhi NCR,16.35,18.35
+Skoda,Slavia,Monte Carlo,Executive Sedan,2025,Petrol,Manual,18.1,8101,Mumbai,16.02,16.39
+MG,ZS EV,Excite Pro,Electric SUV,2023,Electric,AT,40.5,39523,Ahmedabad,22.28,15.98
+Hyundai,Creta,SX(O),Mid-Size SUV,2026,Diesel,AT,19.6,1078,Delhi NCR,22.65,25.04
+Tata,Nexon,Creative,Compact SUV,2025,Diesel,AMT,21.2,9301,Bengaluru,14.47,15.02
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2025,Hybrid,CVT,27.4,7834,Chennai,23.18,23.00
+Mahindra,XUV700,AX3,Premium MPV,2024,Petrol,Manual,14.8,22451,Pune,17.82,15.43
+Kia,Seltos,HTX,Mid-Size SUV,2025,Diesel,DCT,19.5,7559,Bengaluru,20.10,20.54
+Honda,City,ZX,Executive Sedan,2022,Petrol,Manual,19.3,49510,Chennai,20.55,13.79
+Tata,Nexon EV,Empowered+,Electric SUV,2022,Electric,AT,37.5,44966,Pune,18.14,11.86
+Toyota,Innova Hycross,GX,Premium MPV,2021,Hybrid,AT,24.4,39567,Ahmedabad,23.02,13.21
+Maruti Suzuki,Brezza,LXi,Compact SUV,2024,Petrol,Manual,20.2,18702,Bengaluru,8.34,7.56
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2025,Petrol,Manual,14.4,13721,Bengaluru,20.98,21.36
+Skoda,Slavia,Classic,Executive Sedan,2021,Petrol,DCT,19.3,51807,Mumbai,12.24,7.36
+MG,ZS EV,Executive,Electric SUV,2022,Electric,AT,40.2,41484,Bengaluru,20.13,14.29
+Hyundai,Creta,EX,Mid-Size SUV,2024,Petrol,Manual,17.6,24846,Bengaluru,11.10,9.97
+Tata,Nexon,Smart,Compact SUV,2020,Diesel,AMT,21.5,48038,Ahmedabad,9.50,4.70
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2024,CNG,AT,27.1,22457,Pune,21.98,19.26
+Mahindra,XUV700,AX5,Premium MPV,2020,Diesel,AT,15.1,63865,Delhi NCR,24.16,12.16
+Kia,Seltos,HTX,Mid-Size SUV,2022,Diesel,DCT,19.8,54944,Bengaluru,20.10,13.71
+Honda,City,VX,Executive Sedan,2024,Hybrid,Manual,23.3,16906,Mumbai,19.74,17.21
+Tata,Nexon EV,Fearless+,Electric SUV,2023,Electric,AT,37.3,37672,Pune,15.89,12.15
+Toyota,Innova Hycross,ZX,Premium MPV,2021,Petrol,AT,19.5,38304,Ahmedabad,28.39,16.41
+Maruti Suzuki,Brezza,LXi,Compact SUV,2022,CNG,AT,23.6,53794,Ahmedabad,10.39,6.51
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2021,Diesel,Manual,17.9,60005,Bengaluru,15.20,9.35
+Skoda,Slavia,Signature,Executive Sedan,2025,Petrol,Manual,19,8182,Bengaluru,13.36,14.13
+MG,ZS EV,Exclusive+,Electric SUV,2024,Electric,AT,39.7,23448,Ahmedabad,24.44,20.26
+Hyundai,Creta,SX(O),Mid-Size SUV,2021,Petrol,Manual,17.5,40283,Mumbai,20.15,12.16
+Tata,Nexon,Smart,Compact SUV,2023,Petrol,DCT,18.9,39920,Chennai,9.70,7.44
+Maruti Suzuki,Grand Vitara,Zeta,Mid-Size SUV,2021,Hybrid,Manual,27.2,54420,Pune,19.05,11.04
+Mahindra,XUV700,MX,Premium MPV,2022,Petrol,AT,13.5,52450,Chennai,15.14,10.26
+Kia,Seltos,HTE,Mid-Size SUV,2021,Diesel,DCT,20.1,57779,Mumbai,13.80,8.10
+Honda,City,SV,Executive Sedan,2026,Hybrid,Manual,23.9,920,Hyderabad,13.92,15.96
+Tata,Nexon EV,Empowered+,Electric SUV,2022,Electric,AT,37,41153,Hyderabad,18.14,12.22
+Toyota,Innova Hycross,VX,Premium MPV,2020,Petrol,CVT,21.3,74708,Mumbai,24.66,12.76
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2023,Petrol,AT,18.8,22804,Pune,15.29,11.73
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2023,Petrol,Manual,15.2,24042,Mumbai,24.54,19.38
+Skoda,Slavia,Signature,Executive Sedan,2022,Petrol,AT,17.2,55068,Hyderabad,14.51,9.86
+MG,ZS EV,Excite Pro,Electric SUV,2021,Electric,AT,39.9,69157,Delhi NCR,22.28,12.31
+Hyundai,Creta,SX,Mid-Size SUV,2024,Petrol,Manual,17.4,25048,Hyderabad,17.13,15.24
+Tata,Nexon,Pure,Compact SUV,2025,CNG,AMT,23.3,10915,Bengaluru,11.53,11.90
+Maruti Suzuki,Grand Vitara,Alpha+,Mid-Size SUV,2026,CNG,AT,27.3,1101,Delhi NCR,21.98,24.12
+Mahindra,XUV700,AX3,Premium MPV,2026,Diesel,Manual,16.6,178,Chennai,19.17,21.47
+Kia,Seltos,HTE,Mid-Size SUV,2025,Diesel,AT,18.9,12301,Chennai,13.40,13.18
+Honda,City,SV,Executive Sedan,2026,Petrol,Manual,19.6,960,Bengaluru,11.82,14.09
+Tata,Nexon EV,Fearless+,Electric SUV,2026,Electric,AT,36.7,577,Delhi NCR,15.89,17.78
+Toyota,Innova Hycross,VX,Premium MPV,2020,Petrol,CVT,21.4,60188,Hyderabad,24.66,12.91
+Maruti Suzuki,Brezza,ZXi,Compact SUV,2022,Petrol,Manual,20.2,32919,Chennai,12.21,8.54
+Mahindra,Scorpio-N,Z2,Mid-Size SUV,2021,Petrol,AT,13.9,42212,Bengaluru,15.00,9.35
+Skoda,Slavia,Classic,Executive Sedan,2021,Petrol,Manual,18.1,65356,Chennai,10.69,6.07
+MG,ZS EV,Executive,Electric SUV,2023,Electric,AT,40.4,31248,Mumbai,20.13,15.88
+Hyundai,Creta,S(O),Mid-Size SUV,2026,Diesel,AT,18.4,862,Ahmedabad,16.62,18.04
+Tata,Nexon,Fearless,Compact SUV,2024,Petrol,DCT,18.6,17595,Pune,17.15,14.77
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2023,Hybrid,CVT,27.3,39060,Ahmedabad,17.22,12.43
+Mahindra,XUV700,AX3,Premium MPV,2025,Petrol,AT,12.8,10195,Mumbai,18.97,19.02
+Kia,Seltos,HTX,Mid-Size SUV,2022,Petrol,Manual,18.2,41407,Mumbai,17.20,11.71
+Honda,City,VX,Executive Sedan,2022,Petrol,Manual,19.8,33670,Bengaluru,17.64,12.63
+Tata,Nexon EV,Fearless+,Electric SUV,2023,Electric,AT,37.1,30671,Ahmedabad,15.89,11.75
+Toyota,Innova Hycross,ZX(O),Premium MPV,2024,Petrol,AT,19.8,26288,Pune,32.13,28.04
+Maruti Suzuki,Brezza,VXi,Compact SUV,2021,Petrol,Manual,20.3,46214,Chennai,10.27,5.97
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2025,Petrol,Manual,15.3,7777,Delhi NCR,20.98,20.15
+Skoda,Slavia,Signature,Executive Sedan,2021,Petrol,Manual,19.1,60867,Chennai,13.36,7.83
+MG,ZS EV,Excite Pro,Electric SUV,2026,Electric,AT,40.1,704,Chennai,22.28,25.58
+Hyundai,Creta,S(O),Mid-Size SUV,2021,Diesel,DCT,20.3,63984,Delhi NCR,17.02,9.67
+Tata,Nexon,Creative,Compact SUV,2024,CNG,Manual,24,18512,Chennai,14.02,12.53
+Maruti Suzuki,Grand Vitara,Zeta,Mid-Size SUV,2021,Hybrid,CVT,27.3,44097,Chennai,20.20,12.00
+Mahindra,XUV700,AX5,Premium MPV,2021,Petrol,Manual,14.6,65159,Pune,21.66,12.11
+Kia,Seltos,GTX+,Mid-Size SUV,2025,Diesel,Manual,19.5,13709,Delhi NCR,21.70,21.33
+Honda,City,SV,Executive Sedan,2024,Petrol,Manual,19,19988,Mumbai,11.82,10.37
+Tata,Nexon EV,Fearless+,Electric SUV,2026,Electric,AT,37.3,991,Mumbai,15.89,18.46
+Toyota,Innova Hycross,ZX(O),Premium MPV,2023,Hybrid,CVT,25.5,36975,Bengaluru,34.23,27.19
+Maruti Suzuki,Brezza,LXi,Compact SUV,2021,Petrol,Manual,20.4,57316,Hyderabad,8.34,4.92
+Mahindra,Scorpio-N,Z4,Mid-Size SUV,2025,Petrol,Manual,15,11318,Ahmedabad,17.41,16.87
+Skoda,Slavia,Signature,Executive Sedan,2024,Petrol,DCT,18.4,16401,Bengaluru,14.91,13.48
+MG,ZS EV,Excite Pro,Electric SUV,2021,Electric,AT,39.6,65859,Hyderabad,22.28,12.97
+Hyundai,Creta,SX(O),Mid-Size SUV,2025,Petrol,DCT,17.7,11993,Chennai,21.70,22.01
+Tata,Nexon,Smart,Compact SUV,2024,Diesel,DCT,21.4,17880,Ahmedabad,11.05,9.27
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2023,Hybrid,AT,27.1,33336,Delhi NCR,17.22,12.61
+Mahindra,XUV700,AX5,Premium MPV,2026,Petrol,Manual,14.5,191,Delhi NCR,21.66,23.98
+Kia,Seltos,GTX+,Mid-Size SUV,2025,Diesel,DCT,19.9,11840,Mumbai,23.25,23.58
+Honda,City,VX,Executive Sedan,2026,Petrol,CVT,19.6,751,Mumbai,18.79,21.11
+Tata,Nexon EV,Fearless+,Electric SUV,2023,Electric,AT,36.8,23175,Pune,15.89,12.44
+Toyota,Innova Hycross,GX,Premium MPV,2021,Hybrid,AT,24,67183,Ahmedabad,23.02,12.28
+Maruti Suzuki,Brezza,LXi,Compact SUV,2022,Petrol,Manual,19.6,43635,Chennai,8.34,5.57
+Mahindra,Scorpio-N,Z8L,Mid-Size SUV,2022,Petrol,AT,13.2,45476,Mumbai,25.69,17.23
+Skoda,Slavia,Prestige,Executive Sedan,2021,Petrol,Manual,19.2,55087,Pune,18.69,10.78
+MG,ZS EV,Executive,Electric SUV,2021,Electric,AT,39.3,56429,Bengaluru,20.13,12.16
+Hyundai,Creta,SX,Mid-Size SUV,2023,Petrol,DCT,17.2,29184,Delhi NCR,18.68,14.17
+Tata,Nexon,Fearless,Compact SUV,2025,CNG,DCT,23.4,8522,Ahmedabad,18.05,17.23
+Maruti Suzuki,Grand Vitara,Delta,Mid-Size SUV,2026,CNG,AT,27,668,Pune,16.02,18.25
+Mahindra,XUV700,AX3,Premium MPV,2026,Petrol,Manual,15.1,735,Ahmedabad,17.82,19.27
+Kia,Seltos,HTE,Mid-Size SUV,2023,Diesel,Manual,19.6,41554,Chennai,12.25,9.55
+Honda,City,SV,Executive Sedan,2022,Hybrid,CVT,24,48750,Chennai,15.07,10.12
+Tata,Nexon EV,Creative+,Electric SUV,2020,Electric,AT,36.5,72421,Mumbai,13.64,6.92
+Toyota,Innova Hycross,ZX(O),Premium MPV,2026,Petrol,CVT,21.7,750,Bengaluru,32.13,37.46
+Maruti Suzuki,Brezza,ZXi+,Compact SUV,2025,CNG,Manual,25.3,13644,Chennai,15.04,15.11
+Mahindra,Scorpio-N,Z6,Mid-Size SUV,2025,Diesel,AT,16.5,10642,Bengaluru,23.48,24.13
+Skoda,Slavia,Classic,Executive Sedan,2023,Petrol,AT,18.1,27567,Hyderabad,11.84,9.33
+MG,ZS EV,Exclusive+,Electric SUV,2026,Electric,AT,39.8,1197,Hyderabad,24.44,27.77
